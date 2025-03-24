@@ -12,7 +12,7 @@ cat("\014"); rm(list = ls())#; dev.off()
 #sapply(.packages(), unloadNamespace)
 
 #Set working directory
-setwd("~/Climate_kiwis/Data")
+setwd("~/Climate_kiwis/Data/Climate_kiwis")
 
 # Define the list of packages
 packages <- c("trend","pak","tidyverse", "dplyr", "ggplot2","readxl", "writexl","readr")
@@ -158,3 +158,17 @@ ggplot(Temp_data_filtered_sen, aes(as.Date(paste0(year_month, "-01")), mean_valu
   geom_line(data = trend_lines, aes(y = trend), linetype = "dashed", color = "red") +  # Sen's slope trend lines
   facet_wrap(region~lake_label, scales = "free_y") +
   theme_bw()
+
+
+# combine LM and SEN in one DF
+names(Temp_data_filtered_sen)
+names(lm_slopes_data)
+
+combined_data <- Temp_data_filtered_sen %>%
+  distinct(lake_name, .keep_all = TRUE) %>% 
+  select(lake_name, region, geomorphic_type,time_range_start, time_range_end, time_range_years,total_months, mean_value, median_temp,sen_slope, sen_signif) %>%
+  left_join(lm_slopes_data %>%rename(lm_slope = slope,lm_intercept = intercept,lm_r_squared = r_squared),by = "lake_name")
+
+
+
+

@@ -1,0 +1,1276 @@
+"ID","Name","Area","Region","Geomorphic type","Depth","Depth measurement","Data","aeme_file","contour_data"
+"LID 21871","Tomarata Lake",14.35,"Auckland","Aeolian",5.23,"Measured","Seasonal but Detailed","LID21871",TRUE
+"LID 22999","Spectacle Lake",43.83,"Auckland","Aeolian",5.46,"Measured","Seasonal but Detailed","LID22999",TRUE
+"LID 23000","Slipper Lake",8.97,"Auckland","Aeolian",5.36,"Measured","Seasonal but Detailed","LID23000",TRUE
+"LID 45818","Kawaupaka",9.77,"Auckland","Aeolian",21.44,"Measured","Seasonal but Detailed","LID45818",TRUE
+"LID 45819","Wainamu",14.97,"Auckland","Aeolian",13.49,"Measured","Limited and Irregular","LID45819",TRUE
+"LID 45935","Okaihau",5.68,"Auckland","Aeolian",11.41,"Measured","Seasonal but Detailed","LID45935",TRUE
+"LID 49294","Whatihua",3.86,"Auckland","Aeolian",10.96,"Measured","Seasonal but Detailed","LID49294",TRUE
+"LID 49309","Pehiakura Nui (Pehiakura Big)",4.27,"Auckland","Aeolian",12.05,"Measured","Minimal Data","LID49309",TRUE
+"LID 49583","LID 49583",5.46,"Auckland","Dam",3.02,"Measured","No data","LID49583",TRUE
+"LID 49884","Kereta",23.57,"Auckland","Aeolian",1.28,"Measured","Seasonal but Detailed","LID49884",TRUE
+"LID 49895","Te Kanae",5.59,"Auckland","Aeolian",18.95,"Measured","Minimal Data","LID49895",TRUE
+"LID 50151","Pupuke",103.83,"Auckland","Volcanic",58.98,"Measured","Periodic but Sparse","LID50151",TRUE
+"LID 50269","Kuwakatai",27.78,"Auckland","Aeolian",15.82,"Measured","Limited and Irregular","LID50269",TRUE
+"LID 50270","Rototoa",104.81,"Auckland","Aeolian",26.06,"Measured","Seasonal but Detailed","LID50270",TRUE
+"LID 21869","LID 21869",14.93,"Auckland","Riverine",7.09,"Predicted","No data","LID21869",FALSE
+"LID 45809","LID 45809",5.56,"Auckland","Aeolian",12.39,"Predicted","No data","LID45809",FALSE
+"LID 45811","Lower Huia Reservoir",47.02,"Auckland","Dam",28.54,"Predicted","No data","LID45811",FALSE
+"LID 45812","Upper Huia Reservoir",18.01,"Auckland","Dam",32.95,"Predicted","No data","LID45812",FALSE
+"LID 45813","Lower Nihotupu Reservoir",51.1,"Auckland","Dam",15.12,"Predicted","No data","LID45813",FALSE
+"LID 45814","Upper Nihotupu Reservoir",10.19,"Auckland","Dam",39.7,"Predicted","No data","LID45814",FALSE
+"LID 45905","Waitakere",25.28,"Auckland","Dam",26.64,"Predicted","No data","LID45905",FALSE
+"LID 45947","Paekawau",3.23,"Auckland","Aeolian",13.82,"Predicted","No data","LID45947",FALSE
+"LID 49337","Pokorua",25.92,"Auckland","Aeolian",5.67,"Predicted","Minimal Data","LID49337",FALSE
+"LID 49580","LID 49580",7.38,"Auckland","Dam",4.77,"Predicted","No data","LID49580",FALSE
+"LID 49643","LID 49643",20.57,"Auckland","Aeolian",5.62,"Predicted","No data","LID49643",FALSE
+"LID 49886","Karaka (Auckland)",2.36,"Auckland","Aeolian",7.3,"Predicted","No data","LID49886",FALSE
+"LID 49888","LID 49888",5.77,"Auckland","Aeolian",5.53,"Predicted","No data","LID49888",FALSE
+"LID 51224","Wairoa Reservoir",94.36,"Auckland","Dam",27.43,"Predicted","No data","LID51224",FALSE
+"LID 51225","LID 51225",13.93,"Auckland","Dam",18.25,"Predicted","No data","LID51225",FALSE
+"LID 51242","Cosseys Reservoir",113.2,"Auckland","Dam",23.34,"Predicted","No data","LID51242",FALSE
+"LID 11133","Rotorua (Bay of Plenty)",8060.23,"Bay of Plenty","Volcanic",45.27,"Measured","Seasonal but Detailed","LID11133",TRUE
+"LID 14290","Okaro",30.19,"Bay of Plenty","Volcanic",19.94,"Measured","Seasonal but Detailed","LID14290",TRUE
+"LID 15312","Tikitapu  (Blue Lake)",144.45,"Bay of Plenty","Volcanic",31.62,"Measured","Seasonal but Detailed","LID15312",TRUE
+"LID 15325","Okareka",334.65,"Bay of Plenty","Volcanic",38.72,"Measured","Seasonal but Detailed","LID15325",TRUE
+"LID 15621","Rotokakahi (Green Lake)",433.96,"Bay of Plenty","Volcanic",34.22,"Measured","Minimal Data","LID15621",TRUE
+"LID 40069","Rerewhakaaitu [Awaatua]",11.29,"Bay of Plenty","Volcanic",35.54,"Measured","No data","LID40069",TRUE
+"LID 40071","Rerewhakaaitu",517.92,"Bay of Plenty","Volcanic",18.86,"Measured","Seasonal but Detailed","LID40071",TRUE
+"LID 40102","Rotoma",1113.68,"Bay of Plenty","Volcanic",89.13,"Measured","Seasonal but Detailed","LID40102",TRUE
+"LID 40124","Matahina",218.09,"Bay of Plenty","Dam",52.1,"Measured","No data","LID40124",FALSE
+"LID 40188","Rotoehu",791.54,"Bay of Plenty","Volcanic",22.7,"Measured","Seasonal but Detailed","LID40188",TRUE
+"LID 54730","Rotoiti (Bay of Plenty)",3374.81,"Bay of Plenty","Volcanic",101.3,"Measured","Seasonal but Detailed","LID54730",TRUE
+"LID 54731","Okataina",1074.6,"Bay of Plenty","Volcanic",84.79,"Measured","Seasonal but Detailed","LID54731",TRUE
+"LID 54732","Tarawera",4122.48,"Bay of Plenty","Volcanic",94.29,"Measured","Seasonal but Detailed","LID54732",TRUE
+"LID 54733","Rotomahana",903.91,"Bay of Plenty","Volcanic",125.19,"Measured","Seasonal but Detailed","LID54733",TRUE
+"LID 11132","Rotokawa (Bay of Plenty)",6.1,"Bay of Plenty","Volcanic",7.59,"Predicted","No data","LID11132",FALSE
+"LID 11138","Rotokawau (Bay of Plenty)",51.92,"Bay of Plenty","Volcanic",40.09,"Predicted","No data","LID11138",FALSE
+"LID 15326","Te Whekau",5.34,"Bay of Plenty","Volcanic",33.26,"Predicted","No data","LID15326",FALSE
+"LID 15466","LID 15466",5.44,"Bay of Plenty","Dam",19.12,"Predicted","No data","LID15466",FALSE
+"LID 15655","LID 15655",10.73,"Bay of Plenty","Volcanic",8.82,"Predicted","No data","LID15655",FALSE
+"LID 15662","LID 15662",9.03,"Bay of Plenty","Volcanic",9.66,"Predicted","No data","LID15662",FALSE
+"LID 15670","LID 15670",8.42,"Bay of Plenty","Dam",21.14,"Predicted","No data","LID15670",FALSE
+"LID 15672","LID 15672",7.04,"Bay of Plenty","Dam",26.81,"Predicted","No data","LID15672",FALSE
+"LID 15706","Ngawhero",4.09,"Bay of Plenty","Volcanic",16.97,"Predicted","No data","LID15706",FALSE
+"LID 15716","LID 15716",9.49,"Bay of Plenty","Dam",21.74,"Predicted","No data","LID15716",FALSE
+"LID 15719","Lake Mclaren",12.87,"Bay of Plenty","Dam",14.11,"Predicted","No data","LID15719",FALSE
+"LID 37268","Pouarua",40.27,"Bay of Plenty","Riverine",10.22,"Predicted","No data","LID37268",FALSE
+"LID 38230","LID 38230",23.91,"Bay of Plenty","Shoreline",5.56,"Predicted","No data","LID38230",FALSE
+"LID 38233","Otumahi",6.83,"Bay of Plenty","Volcanic",8.89,"Predicted","No data","LID38233",FALSE
+"LID 39876","Aniwhenua",198.96,"Bay of Plenty","Dam",16.94,"Predicted","No data","LID39876",FALSE
+"LID 39884","Rotoatua",6.91,"Bay of Plenty","Volcanic",41.89,"Predicted","No data","LID39884",FALSE
+"LID 39885","Te Hapua",4.11,"Bay of Plenty","Volcanic",14.4,"Predicted","No data","LID39885",FALSE
+"LID 40038","Arahaki",4.03,"Bay of Plenty","Volcanic",11.06,"Predicted","No data","LID40038",FALSE
+"LID 40072","Flaxy Lake",5.7,"Bay of Plenty","Dam",18,"Predicted","No data","LID40072",FALSE
+"LID 40101","Matahi",9.04,"Bay of Plenty","Volcanic",16.97,"Predicted","No data","LID40101",FALSE
+"LID 40107","Rotoitipaku",4.49,"Bay of Plenty","Riverine",13.51,"Predicted","No data","LID40107",FALSE
+"LID 40110","Pupuwharau",20.21,"Bay of Plenty","Riverine",12.36,"Predicted","No data","LID40110",FALSE
+"LID 40117","LID 40117",5.29,"Bay of Plenty","Volcanic",22.21,"Predicted","No data","LID40117",FALSE
+"LID 40119","LID 40119",13.28,"Bay of Plenty","Volcanic",22.96,"Predicted","No data","LID40119",FALSE
+"LID 40120","Rotoroa (Bay of Plenty)",26.07,"Bay of Plenty","Volcanic",9.56,"Predicted","No data","LID40120",FALSE
+"LID 40135","Taikehu",4.27,"Bay of Plenty","Volcanic",7.84,"Predicted","No data","LID40135",FALSE
+"LID 40190","Te Onewhero ",11.57,"Bay of Plenty","Shoreline",13.61,"Predicted","No data","LID40190",FALSE
+"LID 40191","Whakarewarewa",11.75,"Bay of Plenty","Shoreline",13.77,"Predicted","No data","LID40191",FALSE
+"LID 40202","Tamurenui",9.04,"Bay of Plenty","Riverine",6.31,"Predicted","No data","LID40202",FALSE
+"LID 40216","LID 40216",15.8,"Bay of Plenty","Shoreline",6.76,"Predicted","No data","LID40216",FALSE
+"LID 40253","LID 40253",17.72,"Bay of Plenty","Riverine",6.11,"Predicted","No data","LID40253",FALSE
+"LID 43461","Mangatutara",1.02,"Bay of Plenty","Volcanic",NA,"Predicted","No data","LID43461",FALSE
+"LID 49273","Waikoura",2.27,"Bay of Plenty","Aeolian",4.15,"Predicted","No data","LID49273",FALSE
+"OSM 369049348","Aroarotamahine",10.42,"Bay of Plenty","Aeolian",NA,"Predicted","No data","OSM369049348",FALSE
+"OSM 369049350","Te Paritu",3.09,"Bay of Plenty","Aeolian",NA,"Predicted","No data","OSM369049350",FALSE
+"OSM 683966386","Hot Acid Lake",7.57,"Bay of Plenty","Riverine",NA,"Predicted","No data","OSM683966386",FALSE
+"LID 7408","Lake Aviemore",2835.88,"Canterbury","Dam",40.49,"Measured","Minimal Data","LID7408",TRUE
+"LID 7409","Lake Benmore",7589.93,"Canterbury","Dam",91,"Measured","Limited and Irregular","LID7409",TRUE
+"LID 12307","Waitaki",566.88,"Canterbury","Dam",40,"Measured","No data","LID12307",FALSE
+"LID 25972","Mata Kopae",16.11,"Canterbury","Dam",1.14,"Measured","Minimal Data","LID25972",TRUE
+"LID 26477","Lake Tennyson",232.38,"Canterbury","Glacial",58.62,"Measured","No data","LID26477",TRUE
+"LID 39297","Lake Mason N",52.61,"Canterbury","Glacial",38.5,"Measured","Minimal Data","LID39297",FALSE
+"LID 39356","Lake Taylor",206.69,"Canterbury","Glacial",41.92,"Measured","Minimal Data","LID39356",TRUE
+"LID 39357","Lake Sheppard",108.95,"Canterbury","Glacial",21,"Measured","Minimal Data","LID39357",FALSE
+"LID 41299","Lake Emma",166.77,"Canterbury","Glacial",3.13,"Measured","Limited and Irregular","LID41299",TRUE
+"LID 41305","Lake Clearwater",196.64,"Canterbury","Glacial",19.38,"Measured","Limited and Irregular","LID41305",TRUE
+"LID 41306","Lake Camp",43.75,"Canterbury","Glacial",19.02,"Measured","Minimal Data","LID41306",TRUE
+"LID 41354","Lake Roundabout",12.4,"Canterbury","Glacial",1.75,"Measured","No data","LID41354",TRUE
+"LID 41772","Hooker Lake",63.96,"Canterbury","Glacial",149.53,"Measured","No data","LID41772",TRUE
+"LID 45514","Ohau",5932,"Canterbury","Glacial",129,"Measured","Minimal Data","LID45514",TRUE
+"LID 45724","Maori Lakes W",9.57,"Canterbury","Riverine",2.84,"Measured","Minimal Data","LID45724",TRUE
+"LID 46564","Pukaki",17283.7,"Canterbury","Glacial",103.4,"Measured","Minimal Data","LID46564",TRUE
+"LID 46835","Tasman Lake",208.69,"Canterbury","Glacial",280.33,"Measured","No data","LID46835",TRUE
+"LID 47193","Lake Alexandrina",645.9,"Canterbury","Glacial",28.61,"Measured","Limited and Irregular","LID47193",TRUE
+"LID 47198","Lake McGregor",37.1,"Canterbury","Glacial",12.92,"Measured","Minimal Data","LID47198",TRUE
+"LID 47228","Tekapo",9662.49,"Canterbury","Glacial",120,"Measured","Minimal Data","LID47228",TRUE
+"LID 47404","LID 47404",116.14,"Canterbury","Glacial",97,"Measured","No data","LID47404",TRUE
+"LID 47406","LID 47406",114.87,"Canterbury","Glacial",149.77,"Measured","No data","LID47406",TRUE
+"LID 47579","Wairewa (Lake Forsyth)",558.26,"Canterbury","Shoreline",4.1,"Measured","Minimal Data","LID47579",FALSE
+"LID 47859","Maori Lakes E",9.48,"Canterbury","Riverine",1.24,"Measured","Minimal Data","LID47859",TRUE
+"LID 47892","Lake Heron",694.43,"Canterbury","Riverine",37.29,"Measured","Limited and Irregular","LID47892",TRUE
+"LID 48177","Te Waihora (Lake Ellesmere)",19765.63,"Canterbury","Shoreline",2.5,"Measured","Limited and Irregular","LID48177",TRUE
+"LID 48451","Lake Coleridge",3686.44,"Canterbury","Glacial",200,"Measured","Minimal Data","LID48451",TRUE
+"LID 48597","Lake Lyndon",88.35,"Canterbury","Glacial",19.68,"Measured","Limited and Irregular","LID48597",TRUE
+"LID 48660","Lake Pearson",201.85,"Canterbury","Glacial",16.67,"Measured","Limited and Irregular","LID48660",TRUE
+"LID 48663","Lake Grasmere",62.33,"Canterbury","Riverine",13.37,"Measured","Limited and Irregular","LID48663",TRUE
+"LID 54738","Lake Sumner",1372.29,"Canterbury","Glacial",134,"Measured","Minimal Data","LID54738",TRUE
+"LID 7386","LID 7386",15.21,"Canterbury","Glacial",NA,"Predicted","No data","LID7386",FALSE
+"LID 7415","LID 7415",13.76,"Canterbury","Riverine",10.9,"Predicted","No data","LID7415",FALSE
+"LID 11739","LID 11739",7.86,"Canterbury","Glacial",15.83,"Predicted","No data","LID11739",FALSE
+"LID 11789","LID 11789",9.95,"Canterbury","Glacial",11,"Predicted","No data","LID11789",FALSE
+"LID 11797","LID 11797",7.34,"Canterbury","Glacial",NA,"Predicted","No data","LID11797",FALSE
+"LID 11853","LID 11853",22.91,"Canterbury","Glacial",10.84,"Predicted","No data","LID11853",FALSE
+"LID 12216","LID 12216",31.88,"Canterbury","Riverine",11.46,"Predicted","No data","LID12216",FALSE
+"LID 12406","LID 12406",21.7,"Canterbury","Riverine",9.16,"Predicted","No data","LID12406",FALSE
+"LID 12467","LID 12467",5.28,"Canterbury","Shoreline",4,"Predicted","No data","LID12467",FALSE
+"LID 12469","Wainono",398.42,"Canterbury","Shoreline",7.36,"Predicted","Minimal Data","LID12469",FALSE
+"LID 12579","LID 12579",5,"Canterbury","Shoreline",4.95,"Predicted","No data","LID12579",FALSE
+"LID 12690","Washdyke Lagoon",23.02,"Canterbury","Shoreline",8.02,"Predicted","No data","LID12690",FALSE
+"LID 25212","Lake Guyon",62.59,"Canterbury","Landslide",52.66,"Predicted","No data","LID25212",FALSE
+"LID 25994","Rotorua (Canterbury)",43.21,"Canterbury","Riverine",16.16,"Predicted","Minimal Data","LID25994",FALSE
+"LID 25998","Rotoiti (Canterbury)",2.45,"Canterbury","Riverine",16.89,"Predicted","No data","LID25998",FALSE
+"LID 26316","LID 26316",5.88,"Canterbury","Glacial",9.46,"Predicted","No data","LID26316",FALSE
+"LID 26348","Little Lake",7.97,"Canterbury","Riverine",13.06,"Predicted","No data","LID26348",FALSE
+"LID 26410","LID 26410",6.51,"Canterbury","Glacial",NA,"Predicted","No data","LID26410",FALSE
+"LID 26478","Princess Bath",6.11,"Canterbury","Glacial",NA,"Predicted","No data","LID26478",FALSE
+"LID 26484","Lake Thompson (Canterbury)",6.64,"Canterbury","Glacial",NA,"Predicted","No data","LID26484",FALSE
+"LID 39056","Lake Minchin",17.95,"Canterbury","Landslide",65.82,"Predicted","No data","LID39056",FALSE
+"LID 39166","Lake Mason S",20.17,"Canterbury","Glacial",19.96,"Predicted","No data","LID39166",FALSE
+"LID 39364","Loch Katrine",77.85,"Canterbury","Glacial",38.34,"Predicted","Minimal Data","LID39364",FALSE
+"LID 39367","Lake Marion",9.97,"Canterbury","Glacial",25.59,"Predicted","Minimal Data","LID39367",FALSE
+"LID 41293","Lake Denny",5.38,"Canterbury","Riverine",6.66,"Predicted","Minimal Data","LID41293",FALSE
+"LID 41302","Lake Trinity",7.03,"Canterbury","Glacial",7.31,"Predicted","No data","LID41302",FALSE
+"LID 41359","LID 41359",13.78,"Canterbury","Glacial",21.19,"Predicted","No data","LID41359",FALSE
+"LID 41768","Mueller Lake",26.11,"Canterbury","Glacial",74.65,"Predicted","No data","LID41768",FALSE
+"LID 45434","LID 45434",5.9,"Canterbury","Glacial",NA,"Predicted","No data","LID45434",FALSE
+"LID 45442","LID 45442",6.17,"Canterbury","Glacial",NA,"Predicted","No data","LID45442",FALSE
+"LID 45453","LID 45453",6.97,"Canterbury","Glacial",NA,"Predicted","No data","LID45453",FALSE
+"LID 45472","Dumb-bell Lake",14.53,"Canterbury","Glacial",NA,"Predicted","No data","LID45472",FALSE
+"LID 45483","Red Lagoon",11.18,"Canterbury","Riverine",10.27,"Predicted","No data","LID45483",FALSE
+"LID 45499","Swan Lagoon",33.32,"Canterbury","Riverine",6.68,"Predicted","No data","LID45499",FALSE
+"LID 45501","Keland Pond",19.71,"Canterbury","Glacial",11.14,"Predicted","Minimal Data","LID45501",FALSE
+"LID 45503","Wairepo Arm",66.22,"Canterbury","Glacial",20.89,"Predicted","No data","LID45503",FALSE
+"LID 45504","Lake Middleton",23.52,"Canterbury","Glacial",22.84,"Predicted","Minimal Data","LID45504",FALSE
+"LID 45525","Ruataniwha",349.41,"Canterbury","Dam",47.75,"Predicted","No data","LID45525",FALSE
+"LID 45541","Poaka",16.4,"Canterbury","Dam",8.13,"Predicted","No data","LID45541",FALSE
+"LID 45543","LID 45543",6.65,"Canterbury","Dam",23.26,"Predicted","No data","LID45543",FALSE
+"LID 45729","LID 45729",6.66,"Canterbury","Peat",4.23,"Predicted","No data","LID45729",FALSE
+"LID 45847","LID 45847",7.87,"Canterbury","Dam",9.03,"Predicted","No data","LID45847",FALSE
+"LID 45849","LID 45849",5.81,"Canterbury","Dam",9.9,"Predicted","No data","LID45849",FALSE
+"LID 46484","LID 46484",11.31,"Canterbury","Glacial",NA,"Predicted","No data","LID46484",FALSE
+"LID 46608","LID 46608",6.15,"Canterbury","Glacial",10.6,"Predicted","No data","LID46608",FALSE
+"LID 46632","Richardson Lake",8.16,"Canterbury","Glacial",NA,"Predicted","No data","LID46632",FALSE
+"LID 46651","LID 46651",5.23,"Canterbury","Glacial",NA,"Predicted","No data","LID46651",FALSE
+"LID 46700","Forks Lagoon",9.81,"Canterbury","Riverine",12.13,"Predicted","No data","LID46700",FALSE
+"LID 46701","Fred's Tarn",7.21,"Canterbury","Glacial",15.37,"Predicted","No data","LID46701",FALSE
+"LID 46848","LID 46848",9.02,"Canterbury","Glacial",19.82,"Predicted","No data","LID46848",FALSE
+"LID 46868","LID 46868",15.16,"Canterbury","Glacial",NA,"Predicted","No data","LID46868",FALSE
+"LID 47143","Scott Pond",6.29,"Canterbury","Glacial",18.07,"Predicted","No data","LID47143",FALSE
+"LID 47199","Roys Lagoon",24.76,"Canterbury","Riverine",16.74,"Predicted","No data","LID47199",FALSE
+"LID 47206","Sunday Tarn",5.27,"Canterbury","Glacial",17.28,"Predicted","No data","LID47206",FALSE
+"LID 47207","Lake Murray",6.1,"Canterbury","Glacial",13.24,"Predicted","No data","LID47207",FALSE
+"LID 47210","Grebe Tarn",8.79,"Canterbury","Glacial",16.88,"Predicted","No data","LID47210",FALSE
+"LID 47217","LID 47217",5.22,"Canterbury","Glacial",18.14,"Predicted","No data","LID47217",FALSE
+"LID 47225","Hartley Tarn",5.87,"Canterbury","Glacial",18.85,"Predicted","No data","LID47225",FALSE
+"LID 47252","Stony Tarn",7.06,"Canterbury","Glacial",15.8,"Predicted","No data","LID47252",FALSE
+"LID 47254","Tui Tarn",6.38,"Canterbury","Glacial",17.46,"Predicted","No data","LID47254",FALSE
+"LID 47262","Rapuwai Lagoon",7.4,"Canterbury","Glacial",15.78,"Predicted","No data","LID47262",FALSE
+"LID 47399","LID 47399",125.07,"Canterbury","Glacial",95.18,"Predicted","No data","LID47399",FALSE
+"LID 47717","LID 47717",5.17,"Canterbury","Dam",15.95,"Predicted","No data","LID47717",FALSE
+"LID 47858","Maori Lakes Mid",1,"Canterbury","Riverine",4.89,"Predicted","No data","LID47858",FALSE
+"LID 47860","Lake Emily",19.34,"Canterbury","Riverine",12.64,"Predicted","Minimal Data","LID47860",FALSE
+"LID 47869","Manuka Lake",10.04,"Canterbury","Riverine",20.14,"Predicted","No data","LID47869",FALSE
+"LID 47877","Seagull Lake",6.96,"Canterbury","Glacial",41.12,"Predicted","No data","LID47877",FALSE
+"LID 48018","LID 48018",5.35,"Canterbury","Dam",18.25,"Predicted","No data","LID48018",FALSE
+"LID 48161","LID 48161",6.17,"Canterbury","Shoreline",6.12,"Predicted","No data","LID48161",FALSE
+"LID 48188","LID 48188",5.23,"Canterbury","Peat",6.25,"Predicted","No data","LID48188",FALSE
+"LID 48204","LID 48204",5.06,"Canterbury","Riverine",7.53,"Predicted","No data","LID48204",FALSE
+"LID 48207","LID 48207",14.17,"Canterbury","Dam",14.11,"Predicted","No data","LID48207",FALSE
+"LID 48209","LID 48209",8.45,"Canterbury","Dam",11.59,"Predicted","No data","LID48209",FALSE
+"LID 48213","Lake Selfe",65.42,"Canterbury","Glacial",38.73,"Predicted","Minimal Data","LID48213",FALSE
+"LID 48215","LID 48215",5.76,"Canterbury","Glacial",5.71,"Predicted","No data","LID48215",FALSE
+"LID 48217","Lake Evelyn",17.63,"Canterbury","Glacial",16.96,"Predicted","Minimal Data","LID48217",FALSE
+"LID 48374","LID 48374",46.39,"Canterbury","Glacial",NA,"Predicted","No data","LID48374",FALSE
+"LID 48381","LID 48381",17.72,"Canterbury","Glacial",NA,"Predicted","No data","LID48381",FALSE
+"LID 48445","LID 48445",6.42,"Canterbury","Glacial",19,"Predicted","No data","LID48445",FALSE
+"LID 48447","Lake Georgina",17.45,"Canterbury","Glacial",18.66,"Predicted","Minimal Data","LID48447",FALSE
+"LID 48455","Lake Ida",10.04,"Canterbury","Glacial",35.83,"Predicted","Minimal Data","LID48455",FALSE
+"LID 48456","Lake Catherine",18.4,"Canterbury","Glacial",23.43,"Predicted","Minimal Data","LID48456",FALSE
+"LID 48468","Lake Lillian",9.21,"Canterbury","Glacial",27.29,"Predicted","No data","LID48468",FALSE
+"LID 48657","Lake Marymere",23.99,"Canterbury","Glacial",27.53,"Predicted","Minimal Data","LID48657",FALSE
+"LID 48669","Lake Hawdon",35.35,"Canterbury","Glacial",25.7,"Predicted","Minimal Data","LID48669",FALSE
+"LID 48673","Lake Sarah",21.99,"Canterbury","Glacial",17.73,"Predicted","Minimal Data","LID48673",FALSE
+"LID 48679","Blackwater Lake",12.89,"Canterbury","Glacial",10.37,"Predicted","No data","LID48679",FALSE
+"LID 48700","Lake Letitia",29.19,"Canterbury","Glacial",39.26,"Predicted","Minimal Data","LID48700",FALSE
+"LID 48999","Mimimoto",2.01,"Canterbury","Shoreline",4.4,"Predicted","No data","LID48999",FALSE
+"LID 49007","LID 49007",8.19,"Canterbury","Shoreline",7.57,"Predicted","No data","LID49007",FALSE
+"LID 49026","LID 49026",5.17,"Canterbury","Dam",4.69,"Predicted","No data","LID49026",FALSE
+"LID 54739","Raupo",27.2,"Canterbury","Shoreline",9.23,"Predicted","No data","LID54739",FALSE
+"OSM 13262911","OSM 13262911",5.08,"Canterbury","Shoreline",NA,"Predicted","No data","OSM13262911",FALSE
+"OSM 564848306","Lake Rebekah",13.3,"Canterbury","Riverine",NA,"Predicted","No data","OSM564848306",FALSE
+"OSM 903969377","OSM 903969377",17.02,"Canterbury","Shoreline",NA,"Predicted","No data","OSM903969377",FALSE
+"OSM 945679","Pegasus Lake",12.75,"Canterbury","Shoreline",NA,"Predicted","No data","OSM945679",FALSE
+"OSM 962094153","OSM 962094153",9.82,"Canterbury","Shoreline",NA,"Predicted","No data","OSM962094153",FALSE
+"ECAN_001","Opuha",NA,"Canterbury","Dam",NA,"Predicted","Minimal Data","ECAN001",FALSE
+"LID 34688","LID 34688",23.92,"Gisborne","Dam",26.66,"Predicted","No data","LID34688",FALSE
+"LID 34689","LID 34689",15.39,"Gisborne","Dam",24.81,"Predicted","No data","LID34689",FALSE
+"LID 34690","LID 34690",6.03,"Gisborne","Dam",17.23,"Predicted","No data","LID34690",FALSE
+"LID 40521","Rotokaha",9.47,"Gisborne","Volcanic",16,"Predicted","No data","LID40521",FALSE
+"LID 40534","Karangata",11.08,"Gisborne","Volcanic",10.01,"Predicted","No data","LID40534",FALSE
+"LID 40535","LID 40535",5.6,"Gisborne","Volcanic",9.61,"Predicted","No data","LID40535",FALSE
+"LID 40554","LID 40554",6.93,"Gisborne","Volcanic",10.9,"Predicted","No data","LID40554",FALSE
+"LID 40590","LID 40590",9.79,"Gisborne","Volcanic",10.43,"Predicted","No data","LID40590",FALSE
+"LID 40753","LID 40753",5.87,"Gisborne","Dam",11.56,"Predicted","No data","LID40753",FALSE
+"LID 42093","Repongaere",44.27,"Gisborne","Riverine",4.75,"Predicted","No data","LID42093",FALSE
+"LID 43562","Otopotehetehe (Mud Lake)",3.15,"Gisborne","Volcanic",15.89,"Predicted","No data","LID43562",FALSE
+"LID 35662","Poukawa",103.7,"Hawke's Bay","Tectonic",1,"Measured","No data","LID35662",FALSE
+"LID 36980","Waikopiro",10.02,"Hawke's Bay","Landslide",15.85,"Measured","Limited and Irregular","LID36980",TRUE
+"LID 36981","Tutira",170.36,"Hawke's Bay","Landslide",42,"Measured","Limited and Irregular","LID36981",FALSE
+"LID 40050","Waikaremoana",4998.06,"Hawke's Bay","Landslide",248,"Measured","Minimal Data","LID40050",FALSE
+"LID 40396","Waikareiti",407.88,"Hawke's Bay","Landslide",75,"Measured","Minimal Data","LID40396",FALSE
+"LID 32287","Purimu",16.89,"Hawke's Bay","Dam",5.31,"Predicted","No data","LID32287",FALSE
+"LID 32427","Pohue",5.37,"Hawke's Bay","Dam",15.07,"Predicted","No data","LID32427",FALSE
+"LID 32466","LID 32466",5.06,"Hawke's Bay","Riverine",10.44,"Predicted","No data","LID32466",FALSE
+"LID 32478","Opouahi",5.85,"Hawke's Bay","Riverine",15.93,"Predicted","Limited and Irregular","LID32478",FALSE
+"LID 32639","LID 32639",9.4,"Hawke's Bay","Riverine",4.9,"Predicted","No data","LID32639",FALSE
+"LID 32805","Hatuma",153.09,"Hawke's Bay","Tectonic",NA,"Predicted","No data","LID32805",FALSE
+"LID 33287","LID 33287",5.03,"Hawke's Bay","Dam",4.67,"Predicted","No data","LID33287",FALSE
+"LID 33309","Long Range Lake",10.96,"Hawke's Bay","Tectonic",NA,"Predicted","No data","LID33309",FALSE
+"LID 33834","LID 33834",10.73,"Hawke's Bay","Dam",7.99,"Predicted","No data","LID33834",FALSE
+"LID 34599","LID 34599",6.02,"Hawke's Bay","Shoreline",7.64,"Predicted","No data","LID34599",FALSE
+"LID 34663","Te Paeroa",60.63,"Hawke's Bay","Shoreline",4.36,"Predicted","No data","LID34663",FALSE
+"LID 34665","Whakaki",476.27,"Hawke's Bay","Shoreline",9.54,"Predicted","Minimal Data","LID34665",FALSE
+"LID 34666","LID 34666",6.57,"Hawke's Bay","Shoreline",6.71,"Predicted","No data","LID34666",FALSE
+"LID 34668","LID 34668",9.15,"Hawke's Bay","Shoreline",12.26,"Predicted","No data","LID34668",FALSE
+"LID 35422","Horseshoe Lake",31.03,"Hawke's Bay","Tectonic",NA,"Predicted","No data","LID35422",FALSE
+"LID 35606","LID 35606",8.08,"Hawke's Bay","Riverine",4.91,"Predicted","No data","LID35606",FALSE
+"LID 35646","LID 35646",6.52,"Hawke's Bay","Dam",11.63,"Predicted","No data","LID35646",FALSE
+"LID 36096","Oingo Lake",85.3,"Hawke's Bay","Riverine",7.89,"Predicted","Minimal Data","LID36096",FALSE
+"LID 36215","Runanga",110.72,"Hawke's Bay","Riverine",11.22,"Predicted","Minimal Data","LID36215",FALSE
+"LID 36285","Hurimoana",20.21,"Hawke's Bay","Peat",4.05,"Predicted","No data","LID36285",FALSE
+"LID 36314","Kautuku",10.38,"Hawke's Bay","Peat",8.31,"Predicted","No data","LID36314",FALSE
+"LID 36315","Potaka (Hawke's Bay - LID 36315)",2.45,"Hawke's Bay","Riverine",11.6,"Predicted","No data","LID36315",FALSE
+"LID 36343","LID 36343",6.95,"Hawke's Bay","Shoreline",8.02,"Predicted","No data","LID36343",FALSE
+"LID 36741","The Lakes",5.16,"Hawke's Bay","Dam",12.77,"Predicted","No data","LID36741",FALSE
+"LID 36742","LID 36742",8.62,"Hawke's Bay","Dam",20.04,"Predicted","No data","LID36742",FALSE
+"LID 36783","Horotea",1.99,"Hawke's Bay","Riverine",15.48,"Predicted","No data","LID36783",FALSE
+"LID 36960","LID 36960",15.11,"Hawke's Bay","Shoreline",5.16,"Predicted","No data","LID36960",FALSE
+"LID 36979","Orakai",3.31,"Hawke's Bay","Landslide",11.54,"Predicted","Minimal Data","LID36979",FALSE
+"LID 37224","LID 37224",5.79,"Hawke's Bay","Dam",12.85,"Predicted","No data","LID37224",FALSE
+"LID 37529","Rotongaio (Hawke's Bay)",9.35,"Hawke's Bay","Volcanic",16.47,"Predicted","Minimal Data","LID37529",FALSE
+"LID 37530","Rotoroa (Hawke's Bay)",14.59,"Hawke's Bay","Volcanic",19.39,"Predicted","Minimal Data","LID37530",FALSE
+"LID 37534","Rotonuiaha",43.92,"Hawke's Bay","Volcanic",22.62,"Predicted","Minimal Data","LID37534",FALSE
+"LID 37607","Ohuia",46.99,"Hawke's Bay","Shoreline",12.64,"Predicted","No data","LID37607",FALSE
+"LID 37609","Wairau",16.96,"Hawke's Bay","Shoreline",3.95,"Predicted","No data","LID37609",FALSE
+"LID 37649","LID 37649",5.36,"Hawke's Bay","Shoreline",4.15,"Predicted","No data","LID37649",FALSE
+"LID 37855","Ruapapa",30.49,"Hawke's Bay","Dam",15.79,"Predicted","No data","LID37855",FALSE
+"LID 38080","Rotopounamu (Hawke's Bay)",3.44,"Hawke's Bay","Shoreline",9.9,"Predicted","No data","LID38080",FALSE
+"LID 40307","Umuomahu",1.5,"Hawke's Bay","Volcanic",9.52,"Predicted","No data","LID40307",FALSE
+"LID 40311","Potaka (Hawke's Bay - LID 40311)",1.05,"Hawke's Bay","Volcanic",16.8,"Predicted","No data","LID40311",FALSE
+"LID 40312","Te Whakatutu",1.58,"Hawke's Bay","Volcanic",27.19,"Predicted","No data","LID40312",FALSE
+"LID 40321","Hikaka",1.6,"Hawke's Bay","Volcanic",16.63,"Predicted","No data","LID40321",FALSE
+"LID 40323","Kiriopukae",2.57,"Hawke's Bay","Landslide",16.97,"Predicted","No data","LID40323",FALSE
+"LID 40325","Wherowhero",1.4,"Hawke's Bay","Volcanic",16.73,"Predicted","No data","LID40325",FALSE
+"LID 40326","Whakamarino",27.03,"Hawke's Bay","Dam",30.77,"Predicted","No data","LID40326",FALSE
+"LID 40327","Kaitawa",4.61,"Hawke's Bay","Volcanic",20.1,"Predicted","No data","LID40327",FALSE
+"LID 40392","Ruapani",6.62,"Hawke's Bay","Volcanic",25,"Predicted","No data","LID40392",FALSE
+"LID 40393","Whano O Ruapani",2.09,"Hawke's Bay","Volcanic",27.07,"Predicted","No data","LID40393",FALSE
+"LID 40403","Kaipo",3.83,"Hawke's Bay","Riverine",28.98,"Predicted","No data","LID40403",FALSE
+"OSM 615670027","Manapoike",33.59,"Hawke's Bay","Riverine",NA,"Predicted","No data","OSM615670027",FALSE
+"LID 4345","Horowhenua",304.09,"Manawatū-Whanganui","Aeolian",1.99,"Measured","Limited and Irregular","LID4345",TRUE
+"LID 5042","Pukepuke",17.88,"Manawatū-Whanganui","Aeolian",1.2,"Measured","Minimal Data","LID5042",FALSE
+"LID 13437","Lake William",6.8,"Manawatū-Whanganui","Aeolian",9.93,"Measured","Minimal Data","LID13437",TRUE
+"LID 13447","Lake Dudding",7.84,"Manawatū-Whanganui","Aeolian",10.5,"Measured","Limited and Irregular","LID13447",TRUE
+"LID 16939","Waipu (Manawatū-Whanganui)",7.04,"Manawatū-Whanganui","Aeolian",3.84,"Measured","Minimal Data","LID16939",TRUE
+"LID 17286","Poroa",7.08,"Manawatū-Whanganui","Riverine",2.02,"Measured","No data","LID17286",TRUE
+"LID 18933","Pauri",19.25,"Manawatū-Whanganui","Aeolian",12.45,"Measured","Minimal Data","LID18933",TRUE
+"LID 18934","Wiritoa",21.76,"Manawatū-Whanganui","Aeolian",16.79,"Measured","Minimal Data","LID18934",TRUE
+"LID 19624","Namunamu",12.95,"Manawatū-Whanganui","Riverine",18,"Measured","No data","LID19624",TRUE
+"LID 21383","Otamangakau",156.45,"Manawatū-Whanganui","Aeolian",8.3,"Measured","No data","LID21383",TRUE
+"LID 476","Tokomaru No 3 Reservoir",9.54,"Manawatū-Whanganui","Dam",19.82,"Predicted","No data","LID476",FALSE
+"LID 843","Huritini",2.58,"Manawatū-Whanganui","Aeolian",4.71,"Predicted","No data","LID843",FALSE
+"LID 869","LID 869",5.31,"Manawatū-Whanganui","Aeolian",4.15,"Predicted","No data","LID869",FALSE
+"LID 1974","Papaitonga",51.49,"Manawatū-Whanganui","Aeolian",4.48,"Predicted","Minimal Data","LID1974",FALSE
+"LID 4342","Mangahao Upper No 1 Reservior",19.53,"Manawatū-Whanganui","Dam",NA,"Predicted","No data","LID4342",FALSE
+"LID 4343","Mangahao Lower No 2 Reservoir",11.15,"Manawatū-Whanganui","Dam",46.19,"Predicted","No data","LID4343",FALSE
+"LID 4380","LID 4380",9.98,"Manawatū-Whanganui","Aeolian",4.34,"Predicted","No data","LID4380",FALSE
+"LID 4443","LID 4443",7.23,"Manawatū-Whanganui","Dam",4.94,"Predicted","No data","LID4443",FALSE
+"LID 4486","LID 4486",9.67,"Manawatū-Whanganui","Aeolian",4.94,"Predicted","No data","LID4486",FALSE
+"LID 4506","LID 4506",5.22,"Manawatū-Whanganui","Riverine",4.47,"Predicted","No data","LID4506",FALSE
+"LID 4509","Karere",3.57,"Manawatū-Whanganui","Riverine",3.9,"Predicted","No data","LID4509",FALSE
+"LID 4926","Turitea Dams E",11.45,"Manawatū-Whanganui","Dam",19.76,"Predicted","No data","LID4926",FALSE
+"LID 5008","Koputara",9.42,"Manawatū-Whanganui","Aeolian",4.01,"Predicted","Minimal Data","LID5008",FALSE
+"LID 5014","Kaikokopu",14.73,"Manawatū-Whanganui","Aeolian",4.3,"Predicted","No data","LID5014",FALSE
+"LID 5049","LID 5049",5.02,"Manawatū-Whanganui","Riverine",5.97,"Predicted","No data","LID5049",FALSE
+"LID 5306","Omanuka",11,"Manawatū-Whanganui","Aeolian",4.33,"Predicted","Minimal Data","LID5306",FALSE
+"LID 5955","Rotoataha",2.7,"Manawatū-Whanganui","Riverine",23.33,"Predicted","No data","LID5955",FALSE
+"LID 13438","Lake Bernard (Manawatū-Whanganui)",7.96,"Manawatū-Whanganui","Aeolian",8.59,"Predicted","No data","LID13438",FALSE
+"LID 13443","Lake Vipan",6.67,"Manawatū-Whanganui","Aeolian",8.31,"Predicted","No data","LID13443",FALSE
+"LID 13446","Lake Heaton",14.44,"Manawatū-Whanganui","Aeolian",8.21,"Predicted","Minimal Data","LID13446",FALSE
+"LID 13456","Lake Alice (Manawatū-Whanganui)",11.87,"Manawatū-Whanganui","Aeolian",8.93,"Predicted","Minimal Data","LID13456",FALSE
+"LID 15929","LID 15929",6.29,"Manawatū-Whanganui","Aeolian",6.5,"Predicted","No data","LID15929",FALSE
+"LID 15930","Marahau",9.79,"Manawatū-Whanganui","Aeolian",7.68,"Predicted","No data","LID15930",FALSE
+"LID 16901","Koitiata",9.65,"Manawatū-Whanganui","Aeolian",7.81,"Predicted","Minimal Data","LID16901",FALSE
+"LID 16932","Oraekomiko",2.07,"Manawatū-Whanganui","Aeolian",5.17,"Predicted","No data","LID16932",FALSE
+"LID 17014","Rotokauwau",6.64,"Manawatū-Whanganui","Aeolian",5.12,"Predicted","No data","LID17014",FALSE
+"LID 17214","Kohata",5.23,"Manawatū-Whanganui","Aeolian",7.95,"Predicted","Minimal Data","LID17214",FALSE
+"LID 18023","Marron Reservoirs S",12.29,"Manawatū-Whanganui","Dam",9.38,"Predicted","No data","LID18023",FALSE
+"LID 18027","Marron Reservoirs N",6.15,"Manawatū-Whanganui","Dam",10.42,"Predicted","No data","LID18027",FALSE
+"LID 18608","Dry Lake",7.22,"Manawatū-Whanganui","Volcanic",9.22,"Predicted","No data","LID18608",FALSE
+"LID 18609","Rotokuru",5.8,"Manawatū-Whanganui","Volcanic",13.94,"Predicted","No data","LID18609",FALSE
+"LID 18610","Moawhango",486.27,"Manawatū-Whanganui","Dam",37.2,"Predicted","No data","LID18610",FALSE
+"LID 18936","Kaitoke",25.32,"Manawatū-Whanganui","Aeolian",7.92,"Predicted","No data","LID18936",FALSE
+"LID 18951","Lake Westmere",8.08,"Manawatū-Whanganui","Aeolian",9.7,"Predicted","Minimal Data","LID18951",FALSE
+"LID 18957","Rotokawau (Virginia Lake)",6.99,"Manawatū-Whanganui","Aeolian",6.86,"Predicted","No data","LID18957",FALSE
+"LID 19621","Ngaruru",7.82,"Manawatū-Whanganui","Riverine",14.95,"Predicted","No data","LID19621",FALSE
+"LID 20094","Maungarataiti",4.05,"Manawatū-Whanganui","Landslide",14.47,"Predicted","No data","LID20094",FALSE
+"LID 20096","Maungaratanui",6.26,"Manawatū-Whanganui","Landslide",16.3,"Predicted","No data","LID20096",FALSE
+"LID 20239","Pounamu",1.66,"Manawatū-Whanganui","Riverine",7.26,"Predicted","No data","LID20239",FALSE
+"LID 20673","Otamataraha",1.93,"Manawatū-Whanganui","Peat",5.88,"Predicted","No data","LID20673",FALSE
+"LID 20720","Rangatauanui",2.87,"Manawatū-Whanganui","Volcanic",16.28,"Predicted","No data","LID20720",FALSE
+"LID 20721","Rangatauaiti",1.19,"Manawatū-Whanganui","Volcanic",10.49,"Predicted","No data","LID20721",FALSE
+"LID 20844","Te Wai a-moe (Crater Lake)",20.87,"Manawatū-Whanganui","Volcanic",89.14,"Predicted","No data","LID20844",FALSE
+"LID 20846","Lower Tama",21.12,"Manawatū-Whanganui","Volcanic",47.44,"Predicted","No data","LID20846",FALSE
+"LID 20851","Upper Tama",31.37,"Manawatū-Whanganui","Volcanic",43.99,"Predicted","No data","LID20851",FALSE
+"LID 21313","Ohinetonga",1.53,"Manawatū-Whanganui","Dam",15.43,"Predicted","No data","LID21313",FALSE
+"LID 21372","Te Whaiau",6.31,"Manawatū-Whanganui","Volcanic",10.34,"Predicted","No data","LID21372",FALSE
+"LID 31749","Mahangaiti",1.4,"Manawatū-Whanganui","Riverine",7.28,"Predicted","No data","LID31749",FALSE
+"LID 34051","Kokopunui (Lake Colenso)",3.48,"Manawatū-Whanganui","Landslide",14.17,"Predicted","No data","LID34051",FALSE
+"LID 25044","Lake Chalice",42.47,"Marlborough","Landslide",46.91,"Predicted","No data","LID25044",FALSE
+"LID 25432","Timara",1.45,"Marlborough","Dam",8.79,"Predicted","No data","LID25432",FALSE
+"LID 25485","LID 25485",7.75,"Marlborough","Shoreline",4.82,"Predicted","No data","LID25485",FALSE
+"LID 25492","LID 25492",11.03,"Marlborough","Shoreline",4.63,"Predicted","No data","LID25492",FALSE
+"LID 27286","Lake Mcrae",65.71,"Marlborough","Glacial",46.92,"Predicted","No data","LID27286",FALSE
+"LID 27558","Island Lake (Marlborough)",15.97,"Marlborough","Glacial",15.08,"Predicted","No data","LID27558",FALSE
+"LID 27560","Lake Sedgemere",6.57,"Marlborough","Glacial",14.12,"Predicted","No data","LID27560",FALSE
+"LID 27564","Fish Lake",10.59,"Marlborough","Glacial",22.54,"Predicted","No data","LID27564",FALSE
+"LID 27565","LID 27565",6.33,"Marlborough","Glacial",16.2,"Predicted","No data","LID27565",FALSE
+"LID 27566","Bowscale Tarn",25.42,"Marlborough","Glacial",23.81,"Predicted","No data","LID27566",FALSE
+"LID 27936","Lake Elterwater",51.11,"Marlborough","Riverine",4.27,"Predicted","No data","LID27936",FALSE
+"LID 28066","Lake Grassmere",698.2,"Marlborough","Shoreline",7.03,"Predicted","No data","LID28066",FALSE
+"LID 28162","Argyle Pond",19.75,"Marlborough","Dam",18.69,"Predicted","No data","LID28162",FALSE
+"LID 28197","Lake Jasper",5.45,"Marlborough","Dam",8.42,"Predicted","No data","LID28197",FALSE
+"L380 01","Moawhitu",34.29,"Marlborough","Shoreline",NA,"Predicted","No data","L38001",FALSE
+"LID 13467","Waiparera",108.46,"Northland","Aeolian",5.16,"Measured","Minimal Data","LID13467",TRUE
+"LID 17761","Wainui",3.84,"Northland","Aeolian",10.46,"Measured","Minimal Data","LID17761",TRUE
+"LID 18717","Ngakapua S",6.05,"Northland","Aeolian",5.46,"Measured","Minimal Data","LID18717",TRUE
+"LID 18718","Ngakapua N",2.73,"Northland","Aeolian",8.35,"Measured","Minimal Data","LID18718",TRUE
+"LID 18719","Rotokawau [Aupouri]",15.14,"Northland","Aeolian",3.34,"Measured","Minimal Data","LID18719",TRUE
+"LID 19575","Waipara",1.98,"Northland","Aeolian",4.42,"Measured","Minimal Data","LID19575",TRUE
+"LID 21917","Taharoa (Northland)",203.96,"Northland","Aeolian",38.74,"Measured","Limited and Irregular","LID21917",TRUE
+"LID 21918","Kaiiwi",26.74,"Northland","Aeolian",15.63,"Measured","Minimal Data","LID21918",TRUE
+"LID 21926","Waikere",29.71,"Northland","Aeolian",29.46,"Measured","Limited and Irregular","LID21926",TRUE
+"LID 23681","Rotoroa (Northland)",27.65,"Northland","Aeolian",4.08,"Measured","Minimal Data","LID23681",TRUE
+"LID 23682","Lake Heather",8.32,"Northland","Aeolian",6.68,"Measured","Minimal Data","LID23682",TRUE
+"LID 23691","Ngatu",51.63,"Northland","Aeolian",6.26,"Measured","Minimal Data","LID23691",TRUE
+"LID 23721","Omapere",1205.74,"Northland","Volcanic",1.99,"Measured","No data","LID23721",TRUE
+"LID 24415","Waiporohita",6.86,"Northland","Aeolian",3.44,"Measured","Minimal Data","LID24415",TRUE
+"LID 24511","Waihopo",3.47,"Northland","Aeolian",3.74,"Measured","Minimal Data","LID24511",TRUE
+"LID 24620","Wahakari",83.88,"Northland","Aeolian",12.7,"Measured","Minimal Data","LID24620",TRUE
+"LID 24628","Morehurehu",35.89,"Northland","Aeolian",14.81,"Measured","Minimal Data","LID24628",TRUE
+"LID 24633","Te Kahika",14.47,"Northland","Aeolian",11.07,"Measured","Minimal Data","LID24633",TRUE
+"LID 50314","Mokeno",159.11,"Northland","Aeolian",6.5,"Measured","Minimal Data","LID50314",TRUE
+"LID 50320","Karaka (Northland)",10.54,"Northland","Aeolian",5.78,"Measured","Minimal Data","LID50320",TRUE
+"LID 50345","Rototuna",8.84,"Northland","Aeolian",5.36,"Measured","Minimal Data","LID50345",TRUE
+"LID 50371","Kahuparere",7.33,"Northland","Aeolian",7.62,"Measured","Minimal Data","LID50371",TRUE
+"LID 50373","Kanono",77.03,"Northland","Aeolian",15.51,"Measured","Minimal Data","LID50373",TRUE
+"LID 50401","Humuhumu",139.46,"Northland","Aeolian",15.15,"Measured","Minimal Data","LID50401",TRUE
+"LID 50403","Rotootuauru (Lake Swan)",17.2,"Northland","Aeolian",7.22,"Measured","Minimal Data","LID50403",TRUE
+"LID 50413","Rotokawau [Pouto]",25.68,"Northland","Aeolian",12.89,"Measured","Minimal Data","LID50413",TRUE
+"LID 13466","LID 13466",6.93,"Northland","Aeolian",4.41,"Predicted","No data","LID13466",FALSE
+"LID 17169","LID 17169",5.23,"Northland","Riverine",9.68,"Predicted","No data","LID17169",FALSE
+"LID 19506","LID 19506",5.09,"Northland","Aeolian",11.71,"Predicted","No data","LID19506",FALSE
+"LID 19509","Rotopokaka",11.68,"Northland","Aeolian",7.65,"Predicted","No data","LID19509",FALSE
+"LID 19559","LID 19559",7.06,"Northland","Aeolian",11.24,"Predicted","No data","LID19559",FALSE
+"LID 19567","LID 19567",15.19,"Northland","Aeolian",8.42,"Predicted","No data","LID19567",FALSE
+"LID 19572","Waikanae",4.43,"Northland","Aeolian",12.16,"Predicted","No data","LID19572",FALSE
+"LID 19576","LID 19576",10.14,"Northland","Aeolian",7.76,"Predicted","No data","LID19576",FALSE
+"LID 21433","Ngakeketa",11.35,"Northland","Aeolian",10.59,"Predicted","Minimal Data","LID21433",FALSE
+"LID 21434","LID 21434",11.19,"Northland","Aeolian",12.26,"Predicted","No data","LID21434",FALSE
+"LID 21450","LID 21450",10.56,"Northland","Aeolian",6.09,"Predicted","No data","LID21450",FALSE
+"LID 21759","Kapoai",2.49,"Northland","Aeolian",6.35,"Predicted","No data","LID21759",FALSE
+"LID 21760","Parawanui",6.54,"Northland","Aeolian",10.35,"Predicted","No data","LID21760",FALSE
+"LID 21865","LID 21865",5.31,"Northland","Riverine",6.33,"Predicted","No data","LID21865",FALSE
+"LID 21912","Shag Lake",17.39,"Northland","Aeolian",9.98,"Predicted","No data","LID21912",FALSE
+"LID 21997","LID 21997",5.28,"Northland","Riverine",4.61,"Predicted","No data","LID21997",FALSE
+"LID 22089","LID 22089",6.65,"Northland","Riverine",11.5,"Predicted","No data","LID22089",FALSE
+"LID 22201","LID 22201",11.79,"Northland","Dam",5.49,"Predicted","No data","LID22201",FALSE
+"LID 22449","LID 22449",9.69,"Northland","Riverine",14.74,"Predicted","No data","LID22449",FALSE
+"LID 22773","LID 22773",6.2,"Northland","Shoreline",4.5,"Predicted","No data","LID22773",FALSE
+"LID 22785","LID 22785",6.36,"Northland","Aeolian",6.01,"Predicted","No data","LID22785",FALSE
+"LID 22786","LID 22786",12.81,"Northland","Aeolian",10.01,"Predicted","No data","LID22786",FALSE
+"LID 23306","LID 23306",16.18,"Northland","Aeolian",30.81,"Predicted","No data","LID23306",FALSE
+"LID 23657","Waimimiha",10.02,"Northland","Aeolian",4.04,"Predicted","No data","LID23657",FALSE
+"LID 23660","LID 23660",5.21,"Northland","Aeolian",5.03,"Predicted","No data","LID23660",FALSE
+"LID 23676","LID 23676",7.61,"Northland","Aeolian",6.55,"Predicted","No data","LID23676",FALSE
+"LID 23862","LID 23862",19.57,"Northland","Riverine",18.83,"Predicted","No data","LID23862",FALSE
+"LID 23863","Ora",2.45,"Northland","Riverine",8.96,"Predicted","No data","LID23863",FALSE
+"LID 23986","LID 23986",5.06,"Northland","Riverine",8.39,"Predicted","No data","LID23986",FALSE
+"LID 23994","Waro",4.11,"Northland","Aeolian",7.59,"Predicted","No data","LID23994",FALSE
+"LID 24001","Tauanui",7.35,"Northland","Volcanic",14.5,"Predicted","No data","LID24001",FALSE
+"LID 24010","LID 24010",5.37,"Northland","Riverine",7.17,"Predicted","No data","LID24010",FALSE
+"LID 24015","Kaiwai",5.68,"Northland","Riverine",12.82,"Predicted","No data","LID24015",FALSE
+"LID 24024","LID 24024",15.52,"Northland","Volcanic",14.88,"Predicted","No data","LID24024",FALSE
+"LID 24039","Owhareiti",101.53,"Northland","Volcanic",18.99,"Predicted","No data","LID24039",FALSE
+"LID 24271","Waingaro",20.56,"Northland","Aeolian",12.29,"Predicted","No data","LID24271",FALSE
+"LID 24304","Manuwai",126.74,"Northland","Aeolian",11.96,"Predicted","No data","LID24304",FALSE
+"LID 24313","LID 24313",6.81,"Northland","Aeolian",6.16,"Predicted","No data","LID24313",FALSE
+"LID 24343","LID 24343",22.75,"Northland","Aeolian",6.36,"Predicted","No data","LID24343",FALSE
+"LID 24351","LID 24351",8.33,"Northland","Aeolian",6.17,"Predicted","No data","LID24351",FALSE
+"LID 24422","Rotokawau (Northland)",66.26,"Northland","Aeolian",6.69,"Predicted","No data","LID24422",FALSE
+"LID 24423","LID 24423",23.51,"Northland","Aeolian",4.82,"Predicted","No data","LID24423",FALSE
+"LID 24434","Waitahora",2.09,"Northland","Aeolian",4.93,"Predicted","No data","LID24434",FALSE
+"LID 24477","Swan Lake",10.92,"Northland","Aeolian",8.4,"Predicted","No data","LID24477",FALSE
+"LID 24481","LID 24481",5.8,"Northland","Aeolian",6.75,"Predicted","No data","LID24481",FALSE
+"LID 24496","Lake Half",11.84,"Northland","Aeolian",6.77,"Predicted","No data","LID24496",FALSE
+"LID 24592","LID 24592",13.17,"Northland","Aeolian",14.93,"Predicted","No data","LID24592",FALSE
+"LID 24596","Bulrush Lake",5.63,"Northland","Aeolian",7.85,"Predicted","No data","LID24596",FALSE
+"LID 24606","LID 24606",10.2,"Northland","Aeolian",31.37,"Predicted","No data","LID24606",FALSE
+"LID 24619","Taeore",11.09,"Northland","Aeolian",5.6,"Predicted","No data","LID24619",FALSE
+"LID 24621","Kihona",7.21,"Northland","Aeolian",13.38,"Predicted","No data","LID24621",FALSE
+"LID 50215","LID 50215",11.29,"Northland","Shoreline",7.29,"Predicted","No data","LID50215",FALSE
+"LID 50298","LID 50298",5.92,"Northland","Aeolian",17.23,"Predicted","No data","LID50298",FALSE
+"LID 50299","LID 50299",19.46,"Northland","Aeolian",9.01,"Predicted","No data","LID50299",FALSE
+"LID 50304","LID 50304",9.99,"Northland","Aeolian",8.61,"Predicted","No data","LID50304",FALSE
+"LID 50305","LID 50305",5.98,"Northland","Aeolian",6.15,"Predicted","No data","LID50305",FALSE
+"LID 50307","Karoro (Lake Mathews)",22.16,"Northland","Aeolian",4.59,"Predicted","No data","LID50307",FALSE
+"LID 50309","Whakaneke",8.76,"Northland","Aeolian",4.98,"Predicted","No data","LID50309",FALSE
+"LID 50310","LID 50310",7.05,"Northland","Aeolian",5.47,"Predicted","No data","LID50310",FALSE
+"LID 50312","Otapuiti",4.94,"Northland","Aeolian",4.99,"Predicted","No data","LID50312",FALSE
+"LID 50318","LID 50318",7.41,"Northland","Aeolian",5.95,"Predicted","No data","LID50318",FALSE
+"LID 50336","Wairere",10.93,"Northland","Aeolian",12.28,"Predicted","No data","LID50336",FALSE
+"LID 50349","Rototuna Lower",6.17,"Northland","Aeolian",9.81,"Predicted","No data","LID50349",FALSE
+"LID 50377","Waingata",11.03,"Northland","Aeolian",9.32,"Predicted","No data","LID50377",FALSE
+"LID 50405","Rotopouua",4.81,"Northland","Aeolian",6.72,"Predicted","No data","LID50405",FALSE
+"OSM 175152856","OSM 175152856",9.47,"Northland","Riverine",NA,"Predicted","No data","OSM175152856",FALSE
+"OSM 660859641","OSM 660859641",11.1,"Northland","Aeolian",NA,"Predicted","No data","OSM660859641",FALSE
+"OSM 660859642","OSM 660859642",18.22,"Northland","Riverine",NA,"Predicted","No data","OSM660859642",FALSE
+"OSM 660859643","OSM 660859643",17.35,"Northland","Aeolian",NA,"Predicted","No data","OSM660859643",FALSE
+"OSM 660859644","OSM 660859644",12.48,"Northland","Riverine",NA,"Predicted","No data","OSM660859644",FALSE
+"OSM 660874701","OSM 660874701",9.44,"Northland","Riverine",NA,"Predicted","No data","OSM660874701",FALSE
+"OSM 660874850","OSM 660874850",9.06,"Northland","Riverine",NA,"Predicted","No data","OSM660874850",FALSE
+"LID 6914","Blue Lake (Otago)",8.02,"Otago","Riverine",19.42,"Measured","No data","LID6914",TRUE
+"LID 7633","Lake Roxburgh (Otago)",521.4,"Otago","Dam",45,"Measured","No data","LID7633",FALSE
+"LID 44391","Waihola",607.78,"Otago","Riverine",16,"Measured","Minimal Data","LID44391",FALSE
+"LID 44694","Waipori",183.74,"Otago","Riverine",1,"Measured","No data","LID44694",FALSE
+"LID 45151","Mahinerangi",1818.04,"Otago","Dam",29.8,"Measured","No data","LID45151",FALSE
+"LID 53532","Wakatipu",29897.6,"Otago","Glacial",380,"Measured","Periodic but Sparse","LID53532",TRUE
+"LID 53707","Lake Johnson",25.53,"Otago","Glacial",27,"Measured","Minimal Data","LID53707",FALSE
+"LID 54132","Diamond Lake (Otago)",177.15,"Otago","Riverine",24.61,"Measured","No data","LID54132",TRUE
+"LID 54190","Lake Hayes",274.4,"Otago","Glacial",33.3,"Measured","Limited and Irregular","LID54190",FALSE
+"LID 54672","Wanaka",20434.38,"Otago","Glacial",311,"Measured","Periodic but Sparse","LID54672",TRUE
+"LID 54736","Hawea",15199.27,"Otago","Glacial",384,"Measured","Periodic but Sparse","LID54736",TRUE
+"LID 1553","Lake Onslow",1159.45,"Otago","Dam",29.53,"Predicted","Minimal Data","LID1553",FALSE
+"LID 5264","LID 5264",623.91,"Otago","Glacial",26.74,"Predicted","No data","LID5264",FALSE
+"LID 7640","LID 7640",21.93,"Otago","Riverine",17.45,"Predicted","No data","LID7640",FALSE
+"LID 7657","Greenland Reservoir",448.79,"Otago","Dam",30.43,"Predicted","No data","LID7657",FALSE
+"LID 7660","Manorburn Reservoir",215.05,"Otago","Dam",33.19,"Predicted","No data","LID7660",FALSE
+"LID 7688","Butchers Dam",32.12,"Otago","Dam",15.95,"Predicted","No data","LID7688",FALSE
+"LID 7689","Conroys Dam",13.41,"Otago","Dam",15.27,"Predicted","No data","LID7689",FALSE
+"LID 7748","Lower Manorburn Dam",17.99,"Otago","Dam",17.32,"Predicted","No data","LID7748",FALSE
+"LID 7777","Poolburn Reservoir",511.02,"Otago","Dam",18.63,"Predicted","No data","LID7777",FALSE
+"LID 7901","Fraser Dam",46.43,"Otago","Dam",25.14,"Predicted","No data","LID7901",FALSE
+"LID 8158","LID 8158",5.25,"Otago","Shoreline",5.3,"Predicted","No data","LID8158",FALSE
+"LID 8884","LID 8884",5.62,"Otago","Riverine",4.65,"Predicted","No data","LID8884",FALSE
+"LID 8890","LID 8890",22.99,"Otago","Dam",17.89,"Predicted","No data","LID8890",FALSE
+"LID 9959","LID 9959",8.76,"Otago","Riverine",5.99,"Predicted","No data","LID9959",FALSE
+"LID 10706","LID 10706",12.39,"Otago","Riverine",7.09,"Predicted","No data","LID10706",FALSE
+"LID 10718","LID 10718",5.58,"Otago","Riverine",4.89,"Predicted","No data","LID10718",FALSE
+"LID 11030","LID 11030",5.21,"Otago","Dam",13.57,"Predicted","No data","LID11030",FALSE
+"LID 11437","LID 11437",5.59,"Otago","Riverine",10.36,"Predicted","No data","LID11437",FALSE
+"LID 11457","LID 11457",10.59,"Otago","Glacial",NA,"Predicted","No data","LID11457",FALSE
+"LID 11490","Idaburn Dam",8.22,"Otago","Dam",9.45,"Predicted","No data","LID11490",FALSE
+"LID 11614","Falls Dam",140.28,"Otago","Dam",26.13,"Predicted","No data","LID11614",FALSE
+"LID 11620","West Eweburn Dam",24.86,"Otago","Dam",16.84,"Predicted","No data","LID11620",FALSE
+"LID 11709","LID 11709",24.44,"Otago","Glacial",17.53,"Predicted","No data","LID11709",FALSE
+"LID 11910","LID 11910",17.22,"Otago","Shoreline",6.13,"Predicted","No data","LID11910",FALSE
+"LID 11911","LID 11911",47.95,"Otago","Shoreline",4.34,"Predicted","No data","LID11911",FALSE
+"LID 12107","LID 12107",9.17,"Otago","Riverine",4.96,"Predicted","No data","LID12107",FALSE
+"LID 36046","Catlins Lake",432.14,"Otago","Shoreline",12.22,"Predicted","No data","LID36046",FALSE
+"LID 44387","LID 44387",5.47,"Otago","Dam",22.99,"Predicted","No data","LID44387",FALSE
+"LID 44401","LID 44401",7.17,"Otago","Peat",4.39,"Predicted","No data","LID44401",FALSE
+"LID 44402","LID 44402",6.79,"Otago","Peat",3.56,"Predicted","No data","LID44402",FALSE
+"LID 44405","LID 44405",10.29,"Otago","Peat",4.54,"Predicted","No data","LID44405",FALSE
+"LID 44408","LID 44408",6.82,"Otago","Peat",3.34,"Predicted","No data","LID44408",FALSE
+"LID 44574","Phoenix Dam",7.26,"Otago","Dam",19.71,"Predicted","No data","LID44574",FALSE
+"LID 44579","LID 44579",6.07,"Otago","Riverine",6.35,"Predicted","No data","LID44579",FALSE
+"LID 44599","Tuakitoto",131.82,"Otago","Riverine",7.05,"Predicted","Minimal Data","LID44599",FALSE
+"LID 44689","LID 44689",31.36,"Otago","Peat",5.22,"Predicted","No data","LID44689",FALSE
+"LID 44691","LID 44691",6.18,"Otago","Peat",3.19,"Predicted","No data","LID44691",FALSE
+"LID 44746","Tomahawk Lagoon W",18.79,"Otago","Shoreline",15.74,"Predicted","No data","LID44746",FALSE
+"LID 44747","Tomahawk Lagoon E",10.23,"Otago","Shoreline",11.54,"Predicted","Minimal Data","LID44747",FALSE
+"LID 45153","Mahinerangi N",12.5,"Otago","Dam",15.15,"Predicted","No data","LID45153",FALSE
+"LID 45260","LID 45260",6.31,"Otago","Shoreline",13.85,"Predicted","No data","LID45260",FALSE
+"LID 45360","Lucidus Lake",68.88,"Otago","Glacial",95.38,"Predicted","No data","LID45360",FALSE
+"LID 45379","Crucible Lake",12.42,"Otago","Glacial",NA,"Predicted","No data","LID45379",FALSE
+"LID 45411","LID 45411",26.16,"Otago","Glacial",72.73,"Predicted","No data","LID45411",FALSE
+"LID 45924","Lake Unknown",108.37,"Otago","Glacial",83.82,"Predicted","No data","LID45924",FALSE
+"LID 46360","LID 46360",5.8,"Otago","Glacial",NA,"Predicted","No data","LID46360",FALSE
+"LID 49725","Lake Nerine",16.26,"Otago","Glacial",NA,"Predicted","No data","LID49725",FALSE
+"LID 50695","LID 50695",10.18,"Otago","Glacial",NA,"Predicted","No data","LID50695",FALSE
+"LID 50704","Lake Hope",19.21,"Otago","Glacial",NA,"Predicted","No data","LID50704",FALSE
+"LID 50711","Te Kahua",10.82,"Otago","Glacial",NA,"Predicted","No data","LID50711",FALSE
+"LID 53145","Lake Nigel",16.59,"Otago","Glacial",36.68,"Predicted","No data","LID53145",FALSE
+"LID 53163","LID 53163",10.95,"Otago","Glacial",17.8,"Predicted","No data","LID53163",FALSE
+"LID 53392","Lake Ned",11.71,"Otago","Glacial",39.7,"Predicted","No data","LID53392",FALSE
+"LID 53519","LID 53519",70.11,"Otago","Glacial",23.23,"Predicted","No data","LID53519",FALSE
+"LID 53545","Lake Dispute",28.24,"Otago","Glacial",44.72,"Predicted","No data","LID53545",FALSE
+"LID 53547","Lake Isobel",5.62,"Otago","Glacial",NA,"Predicted","No data","LID53547",FALSE
+"LID 53549","Moke",81.43,"Otago","Glacial",34.65,"Predicted","No data","LID53549",FALSE
+"LID 53717","LID 53717",5.16,"Otago","Glacial",NA,"Predicted","No data","LID53717",FALSE
+"LID 53730","Lake Alta",12.86,"Otago","Glacial",NA,"Predicted","No data","LID53730",FALSE
+"LID 53864","LID 53864",5.12,"Otago","Glacial",69.96,"Predicted","No data","LID53864",FALSE
+"LID 53877","Lake Mckellar",73.61,"Otago","Glacial",72.39,"Predicted","No data","LID53877",FALSE
+"LID 54021","LID 54021",5.33,"Otago","Glacial",NA,"Predicted","No data","LID54021",FALSE
+"LID 54035","Rere",7.24,"Otago","Riverine",59.71,"Predicted","No data","LID54035",FALSE
+"LID 54037","LID 54037",5.57,"Otago","Riverine",17.45,"Predicted","No data","LID54037",FALSE
+"LID 54039","Lake Luna",35.85,"Otago","Glacial",63.05,"Predicted","No data","LID54039",FALSE
+"LID 54050","LID 54050",17.47,"Otago","Riverine",18.37,"Predicted","No data","LID54050",FALSE
+"LID 54088","Lake Harris",22.34,"Otago","Glacial",NA,"Predicted","No data","LID54088",FALSE
+"LID 54094","Lake Wilson",29.11,"Otago","Glacial",NA,"Predicted","No data","LID54094",FALSE
+"LID 54124","LID 54124",5.16,"Otago","Glacial",NA,"Predicted","No data","LID54124",FALSE
+"LID 54141","Lake Reid",12.51,"Otago","Riverine",34.96,"Predicted","No data","LID54141",FALSE
+"LID 54144","Lake Sylvan",62.2,"Otago","Glacial",67.61,"Predicted","No data","LID54144",FALSE
+"LID 54156","LID 54156",17.21,"Otago","Glacial",NA,"Predicted","No data","LID54156",FALSE
+"LID 54177","Lochnagar",304.34,"Otago","Glacial",105.22,"Predicted","No data","LID54177",FALSE
+"LID 54274","LID 54274",5.08,"Otago","Glacial",NA,"Predicted","No data","LID54274",FALSE
+"LID 54311","LID 54311",5.25,"Otago","Riverine",13.07,"Predicted","No data","LID54311",FALSE
+"LID 54326","LID 54326",16.58,"Otago","Riverine",10.73,"Predicted","No data","LID54326",FALSE
+"LID 54337","LID 54337",6.86,"Otago","Riverine",12.3,"Predicted","No data","LID54337",FALSE
+"LID 54342","LID 54342",6.66,"Otago","Riverine",8.09,"Predicted","No data","LID54342",FALSE
+"LID 54621","LID 54621",24.73,"Otago","Glacial",NA,"Predicted","No data","LID54621",FALSE
+"LID 54737","Lake Dunstan",2677.6,"Otago","Dam",152.64,"Predicted","Periodic but Sparse","LID54737",FALSE
+"OSM 1014557474","OSM 1014557474",25.16,"Otago","Glacial",NA,"Predicted","No data","OSM1014557474",FALSE
+"OSM 5716936","Tewa",5.58,"Otago","Glacial",NA,"Predicted","No data","OSM5716936",FALSE
+"OSM 906389356","OSM 906389356",58.87,"Otago","Glacial",NA,"Predicted","No data","OSM906389356",FALSE
+"LID 26031","Mouat",85.27,"Southland","Glacial",17,"Measured","No data","LID26031",FALSE
+"LID 26111","Hauroko",7215.13,"Southland","Glacial",462,"Measured","No data","LID26111",TRUE
+"LID 28543","Lake George",91.1,"Southland","Shoreline",1.1,"Measured","Minimal Data","LID28543",TRUE
+"LID 29244","Monowai",3204.28,"Southland","Glacial",161,"Measured","No data","LID29244",TRUE
+"LID 43649","Lake Vincent",17.24,"Southland","Aeolian",8.91,"Measured","Minimal Data","LID43649",TRUE
+"LID 43668","The Reservoir",35.58,"Southland","Dam",9.59,"Measured","Minimal Data","LID43668",TRUE
+"LID 47067","Wawahi Waka (Lake Alabaster)",530.06,"Southland","Riverine",75.52,"Measured","No data","LID47067",TRUE
+"LID 52566","Te Anau",34419,"Southland","Glacial",417,"Measured","Limited and Irregular","LID52566",TRUE
+"LID 53338","South Mavora Lake",163.33,"Southland","Glacial",40,"Measured","No data","LID53338",FALSE
+"LID 53353","North Mavora Lake",1020.96,"Southland","Glacial",81.17,"Measured","No data","LID53353",TRUE
+"LID 53851","Lake Gunn",272.27,"Southland","Glacial",84.3,"Measured","No data","LID53851",FALSE
+"LID 54356","Whakatipu Waitai (Lake Mckerrow)",2291.34,"Southland","Glacial",121,"Measured","No data","LID54356",TRUE
+"LID 54735","Manapouri",14233.05,"Southland","Glacial",444,"Measured","Limited and Irregular","LID54735",TRUE
+"LID 54742","Waituna",1361.76,"Southland","Shoreline",4.27,"Measured","Periodic but Sparse","LID54742",TRUE
+"LID 21729","LID 21729",5.98,"Southland","Glacial",NA,"Predicted","No data","LID21729",FALSE
+"LID 21733","LID 21733",47.78,"Southland","Glacial",65.88,"Predicted","No data","LID21733",FALSE
+"LID 25245","LID 25245",7.3,"Southland","Shoreline",6.59,"Predicted","No data","LID25245",FALSE
+"LID 25247","LID 25247",7.03,"Southland","Shoreline",5.34,"Predicted","No data","LID25247",FALSE
+"LID 26026","LID 26026",13.41,"Southland","Glacial",33.54,"Predicted","No data","LID26026",FALSE
+"LID 26036","Poteriteri",4439.14,"Southland","Glacial",176.52,"Predicted","No data","LID26036",FALSE
+"LID 26041","LID 26041",5.66,"Southland","Glacial",43.2,"Predicted","No data","LID26041",FALSE
+"LID 26044","LID 26044",7.69,"Southland","Glacial",61.81,"Predicted","No data","LID26044",FALSE
+"LID 26045","LID 26045",20.19,"Southland","Glacial",50.86,"Predicted","No data","LID26045",FALSE
+"LID 26051","Lake Cadman",213.06,"Southland","Glacial",57.17,"Predicted","No data","LID26051",FALSE
+"LID 26052","LID 26052",35.23,"Southland","Glacial",57.46,"Predicted","No data","LID26052",FALSE
+"LID 26057","LID 26057",18.16,"Southland","Glacial",33.11,"Predicted","No data","LID26057",FALSE
+"LID 26085","LID 26085",25.43,"Southland","Glacial",NA,"Predicted","No data","LID26085",FALSE
+"LID 26099","LID 26099",13.34,"Southland","Glacial",NA,"Predicted","No data","LID26099",FALSE
+"LID 28343","Double Lakes",5.16,"Southland","Peat",12.9,"Predicted","No data","LID28343",FALSE
+"LID 28383","Lake Hector",55.25,"Southland","Glacial",33.73,"Predicted","No data","LID28383",FALSE
+"LID 28385","Lake Dobson",5.59,"Southland","Shoreline",22.51,"Predicted","No data","LID28385",FALSE
+"LID 28390","LID 28390",8.57,"Southland","Glacial",21.46,"Predicted","No data","LID28390",FALSE
+"LID 28394","Lake Esau",5.5,"Southland","Shoreline",25.48,"Predicted","No data","LID28394",FALSE
+"LID 28401","Lake Fraser",192.18,"Southland","Glacial",NA,"Predicted","No data","LID28401",FALSE
+"LID 28402","LID 28402",22.44,"Southland","Glacial",NA,"Predicted","No data","LID28402",FALSE
+"LID 28403","Lake Rimmer",22.21,"Southland","Glacial",40.27,"Predicted","No data","LID28403",FALSE
+"LID 28408","Lake Macathur",64.21,"Southland","Glacial",42.02,"Predicted","No data","LID28408",FALSE
+"LID 28417","LID 28417",5.04,"Southland","Glacial",29.92,"Predicted","No data","LID28417",FALSE
+"LID 28419","LID 28419",7.96,"Southland","Glacial",26.76,"Predicted","No data","LID28419",FALSE
+"LID 28438","LID 28438",16.66,"Southland","Glacial",51.35,"Predicted","No data","LID28438",FALSE
+"LID 28478","Kirirua",26.36,"Southland","Glacial",NA,"Predicted","No data","LID28478",FALSE
+"LID 28483","Lake Forster",10.58,"Southland","Glacial",NA,"Predicted","No data","LID28483",FALSE
+"LID 28489","LID 28489",50.86,"Southland","Glacial",79.59,"Predicted","No data","LID28489",FALSE
+"LID 28490","LID 28490",16.4,"Southland","Glacial",52.43,"Predicted","No data","LID28490",FALSE
+"LID 28492","LID 28492",15.49,"Southland","Glacial",36.93,"Predicted","No data","LID28492",FALSE
+"LID 28495","LID 28495",72.53,"Southland","Glacial",77.6,"Predicted","No data","LID28495",FALSE
+"LID 28497","LID 28497",11.7,"Southland","Glacial",78.91,"Predicted","No data","LID28497",FALSE
+"LID 28500","LID 28500",8.41,"Southland","Shoreline",NA,"Predicted","No data","LID28500",FALSE
+"LID 28503","LID 28503",5.73,"Southland","Shoreline",28.94,"Predicted","No data","LID28503",FALSE
+"LID 28532","Lake Innes",70.8,"Southland","Glacial",45,"Predicted","No data","LID28532",FALSE
+"LID 28546","LID 28546",6.54,"Southland","Shoreline",16.61,"Predicted","No data","LID28546",FALSE
+"LID 28611","Kiwi",65.06,"Southland","Glacial",48.59,"Predicted","No data","LID28611",FALSE
+"LID 28614","LID 28614",6.72,"Southland","Glacial",42.72,"Predicted","No data","LID28614",FALSE
+"LID 28624","Hakapoua",532.24,"Southland","Glacial",78.96,"Predicted","No data","LID28624",FALSE
+"LID 28630","LID 28630",7.26,"Southland","Glacial",57.97,"Predicted","No data","LID28630",FALSE
+"LID 28652","LID 28652",19.88,"Southland","Glacial",43.11,"Predicted","No data","LID28652",FALSE
+"LID 28704","LID 28704",7.5,"Southland","Glacial",25.89,"Predicted","No data","LID28704",FALSE
+"LID 28708","Lake Monk",204.85,"Southland","Glacial",69.36,"Predicted","No data","LID28708",FALSE
+"LID 28712","LID 28712",7.69,"Southland","Glacial",46.71,"Predicted","No data","LID28712",FALSE
+"LID 28716","LID 28716",7.51,"Southland","Glacial",39.85,"Predicted","No data","LID28716",FALSE
+"LID 28722","LID 28722",39.39,"Southland","Glacial",64.58,"Predicted","No data","LID28722",FALSE
+"LID 28734","LID 28734",15.66,"Southland","Glacial",39.88,"Predicted","No data","LID28734",FALSE
+"LID 28737","LID 28737",16.41,"Southland","Glacial",65.48,"Predicted","No data","LID28737",FALSE
+"LID 28757","LID 28757",25.74,"Southland","Glacial",44.23,"Predicted","No data","LID28757",FALSE
+"LID 28766","LID 28766",9.77,"Southland","Glacial",57.39,"Predicted","No data","LID28766",FALSE
+"LID 28817","Lake Victor",87.62,"Southland","Glacial",60.85,"Predicted","No data","LID28817",FALSE
+"LID 28835","Lake Widgeon",174.24,"Southland","Glacial",59,"Predicted","No data","LID28835",FALSE
+"LID 28849","LID 28849",18.23,"Southland","Peat",20.93,"Predicted","No data","LID28849",FALSE
+"LID 28854","LID 28854",12.44,"Southland","Glacial",56.76,"Predicted","No data","LID28854",FALSE
+"LID 28856","LID 28856",21.98,"Southland","Glacial",28.04,"Predicted","No data","LID28856",FALSE
+"LID 28867","Lake Carrick",64.46,"Southland","Glacial",41.18,"Predicted","No data","LID28867",FALSE
+"LID 28870","LID 28870",5.44,"Southland","Glacial",50.82,"Predicted","No data","LID28870",FALSE
+"LID 28876","LID 28876",29.14,"Southland","Glacial",62.67,"Predicted","No data","LID28876",FALSE
+"LID 28879","Lake Purser",75.43,"Southland","Glacial",57.68,"Predicted","No data","LID28879",FALSE
+"LID 28882","LID 28882",6.41,"Southland","Riverine",40.59,"Predicted","No data","LID28882",FALSE
+"LID 28885","LID 28885",9.7,"Southland","Glacial",58.29,"Predicted","No data","LID28885",FALSE
+"LID 28907","LID 28907",29.85,"Southland","Glacial",48.18,"Predicted","No data","LID28907",FALSE
+"LID 28912","LID 28912",6.34,"Southland","Glacial",61.08,"Predicted","No data","LID28912",FALSE
+"LID 28914","LID 28914",14.98,"Southland","Glacial",70.32,"Predicted","No data","LID28914",FALSE
+"LID 28915","LID 28915",17.32,"Southland","Glacial",48.67,"Predicted","No data","LID28915",FALSE
+"LID 28923","LID 28923",19.39,"Southland","Glacial",64.31,"Predicted","No data","LID28923",FALSE
+"LID 28924","Prong Lake",15.17,"Southland","Glacial",37.77,"Predicted","No data","LID28924",FALSE
+"LID 28936","LID 28936",5.12,"Southland","Glacial",49.46,"Predicted","No data","LID28936",FALSE
+"LID 28937","LID 28937",46.46,"Southland","Glacial",64.52,"Predicted","No data","LID28937",FALSE
+"LID 28942","Lake Mike",47.67,"Southland","Glacial",46.53,"Predicted","No data","LID28942",FALSE
+"LID 28945","LID 28945",23.68,"Southland","Glacial",NA,"Predicted","No data","LID28945",FALSE
+"LID 28948","LID 28948",8.23,"Southland","Glacial",49.5,"Predicted","No data","LID28948",FALSE
+"LID 28958","LID 28958",10.98,"Southland","Glacial",28.05,"Predicted","No data","LID28958",FALSE
+"LID 28983","LID 28983",6.95,"Southland","Glacial",NA,"Predicted","No data","LID28983",FALSE
+"LID 28989","LID 28989",53.37,"Southland","Glacial",51.53,"Predicted","No data","LID28989",FALSE
+"LID 28998","LID 28998",16.19,"Southland","Glacial",NA,"Predicted","No data","LID28998",FALSE
+"LID 29007","LID 29007",14.32,"Southland","Glacial",NA,"Predicted","No data","LID29007",FALSE
+"LID 29021","LID 29021",12.59,"Southland","Glacial",NA,"Predicted","No data","LID29021",FALSE
+"LID 29024","LID 29024",13.77,"Southland","Glacial",31.63,"Predicted","No data","LID29024",FALSE
+"LID 29031","Kakapo",39.63,"Southland","Glacial",34.64,"Predicted","No data","LID29031",FALSE
+"LID 29041","LID 29041",9.6,"Southland","Glacial",65.56,"Predicted","No data","LID29041",FALSE
+"LID 29043","LID 29043",52.57,"Southland","Glacial",66.9,"Predicted","No data","LID29043",FALSE
+"LID 29070","Sphinx Lake",58.65,"Southland","Glacial",59.05,"Predicted","No data","LID29070",FALSE
+"LID 29072","LID 29072",7.49,"Southland","Glacial",52.02,"Predicted","No data","LID29072",FALSE
+"LID 29073","Lake Hay",26.65,"Southland","Glacial",NA,"Predicted","No data","LID29073",FALSE
+"LID 29089","LID 29089",6.29,"Southland","Glacial",NA,"Predicted","No data","LID29089",FALSE
+"LID 29098","LID 29098",6.21,"Southland","Glacial",NA,"Predicted","No data","LID29098",FALSE
+"LID 29100","LID 29100",8.07,"Southland","Glacial",NA,"Predicted","No data","LID29100",FALSE
+"LID 29104","Lake Jaquiery",10.47,"Southland","Glacial",NA,"Predicted","No data","LID29104",FALSE
+"LID 29122","LID 29122",6.21,"Southland","Glacial",NA,"Predicted","No data","LID29122",FALSE
+"LID 29124","LID 29124",11.39,"Southland","Glacial",NA,"Predicted","No data","LID29124",FALSE
+"LID 29224","LID 29224",6.95,"Southland","Glacial",NA,"Predicted","No data","LID29224",FALSE
+"LID 29250","Island Lake (Southland)",42.02,"Southland","Glacial",31.17,"Predicted","No data","LID29250",FALSE
+"LID 29253","LID 29253",11.96,"Southland","Glacial",NA,"Predicted","No data","LID29253",FALSE
+"LID 29254","Green Lake",484.74,"Southland","Glacial",72.8,"Predicted","No data","LID29254",FALSE
+"LID 29417","LID 29417",8.84,"Southland","Shoreline",40.58,"Predicted","No data","LID29417",FALSE
+"LID 29439","LID 29439",9.77,"Southland","Glacial",NA,"Predicted","No data","LID29439",FALSE
+"LID 29444","LID 29444",16.47,"Southland","Glacial",66.81,"Predicted","No data","LID29444",FALSE
+"LID 29473","LID 29473",5.15,"Southland","Glacial",NA,"Predicted","No data","LID29473",FALSE
+"LID 29474","LID 29474",10.85,"Southland","Glacial",NA,"Predicted","No data","LID29474",FALSE
+"LID 29489","Moose Lake",8.95,"Southland","Landslide",48.64,"Predicted","No data","LID29489",FALSE
+"LID 29490","Shy Lake",48.34,"Southland","Glacial",55.24,"Predicted","No data","LID29490",FALSE
+"LID 29496","LID 29496",22.45,"Southland","Glacial",32.29,"Predicted","No data","LID29496",FALSE
+"LID 29503","LID 29503",17,"Southland","Glacial",60.35,"Predicted","No data","LID29503",FALSE
+"LID 29504","LID 29504",9.18,"Southland","Glacial",56.06,"Predicted","No data","LID29504",FALSE
+"LID 29511","LID 29511",5.15,"Southland","Glacial",NA,"Predicted","No data","LID29511",FALSE
+"LID 29519","LID 29519",5.42,"Southland","Glacial",NA,"Predicted","No data","LID29519",FALSE
+"LID 29540","LID 29540",10.66,"Southland","Glacial",NA,"Predicted","No data","LID29540",FALSE
+"LID 29541","Jane Lake",8.66,"Southland","Glacial",NA,"Predicted","No data","LID29541",FALSE
+"LID 29547","Loch Maree",48.64,"Southland","Landslide",47.86,"Predicted","No data","LID29547",FALSE
+"LID 29553","LID 29553",5.26,"Southland","Glacial",NA,"Predicted","No data","LID29553",FALSE
+"LID 29554","LID 29554",7.16,"Southland","Glacial",NA,"Predicted","No data","LID29554",FALSE
+"LID 29579","Lake Horizon",15.28,"Southland","Glacial",NA,"Predicted","No data","LID29579",FALSE
+"LID 29596","Lake Roe",19.24,"Southland","Glacial",NA,"Predicted","No data","LID29596",FALSE
+"LID 29614","Lake Bright",18.14,"Southland","Glacial",NA,"Predicted","No data","LID29614",FALSE
+"LID 29644","Lake Story",26.59,"Southland","Glacial",NA,"Predicted","No data","LID29644",FALSE
+"LID 29670","LID 29670",6.18,"Southland","Glacial",NA,"Predicted","No data","LID29670",FALSE
+"LID 29673","LID 29673",21.48,"Southland","Glacial",NA,"Predicted","No data","LID29673",FALSE
+"LID 29679","LID 29679",27.95,"Southland","Glacial",NA,"Predicted","No data","LID29679",FALSE
+"LID 29681","LID 29681",15.89,"Southland","Glacial",NA,"Predicted","No data","LID29681",FALSE
+"LID 29688","LID 29688",75.06,"Southland","Glacial",NA,"Predicted","No data","LID29688",FALSE
+"LID 29724","LID 29724",7.81,"Southland","Glacial",NA,"Predicted","No data","LID29724",FALSE
+"LID 29727","LID 29727",12.28,"Southland","Glacial",59.04,"Predicted","No data","LID29727",FALSE
+"LID 29728","LID 29728",29.41,"Southland","Glacial",NA,"Predicted","No data","LID29728",FALSE
+"LID 29729","LID 29729",25.14,"Southland","Glacial",67.12,"Predicted","No data","LID29729",FALSE
+"LID 29748","Gair Loch",10.53,"Southland","Riverine",44.6,"Predicted","No data","LID29748",FALSE
+"LID 29755","LID 29755",6.59,"Southland","Glacial",57.76,"Predicted","No data","LID29755",FALSE
+"LID 29790","LID 29790",7.93,"Southland","Glacial",NA,"Predicted","No data","LID29790",FALSE
+"LID 29810","LID 29810",11.8,"Southland","Glacial",NA,"Predicted","No data","LID29810",FALSE
+"LID 29821","Lake St Patrick",31.36,"Southland","Glacial",47.98,"Predicted","No data","LID29821",FALSE
+"LID 29858","LID 29858",30.11,"Southland","Glacial",64.9,"Predicted","No data","LID29858",FALSE
+"LID 29907","LID 29907",9.24,"Southland","Glacial",21.22,"Predicted","No data","LID29907",FALSE
+"LID 29917","Pyramid Lake",13.4,"Southland","Glacial",43.65,"Predicted","No data","LID29917",FALSE
+"LID 29938","LID 29938",22.09,"Southland","Glacial",54.43,"Predicted","No data","LID29938",FALSE
+"LID 29956","Shallow Lake",13.09,"Southland","Glacial",NA,"Predicted","No data","LID29956",FALSE
+"LID 29958","LID 29958",6.76,"Southland","Riverine",NA,"Predicted","No data","LID29958",FALSE
+"LID 29962","LID 29962",9.96,"Southland","Glacial",NA,"Predicted","No data","LID29962",FALSE
+"LID 30017","LID 30017",14.99,"Southland","Glacial",65.5,"Predicted","No data","LID30017",FALSE
+"LID 30038","LID 30038",7.44,"Southland","Glacial",NA,"Predicted","No data","LID30038",FALSE
+"LID 30276","LID 30276",16.37,"Southland","Glacial",6.63,"Predicted","No data","LID30276",FALSE
+"LID 30278","LID 30278",23.23,"Southland","Glacial",9.74,"Predicted","No data","LID30278",FALSE
+"LID 30344","LID 30344",14.77,"Southland","Glacial",NA,"Predicted","No data","LID30344",FALSE
+"LID 30345","LID 30345",8.81,"Southland","Glacial",NA,"Predicted","No data","LID30345",FALSE
+"LID 30380","Rakatu",130.75,"Southland","Glacial",28.5,"Predicted","No data","LID30380",FALSE
+"LID 30487","Lake Sheila",14.17,"Southland","Peat",15.51,"Predicted","No data","LID30487",FALSE
+"LID 30516","LID 30516",11.12,"Southland","Glacial",55.09,"Predicted","No data","LID30516",FALSE
+"LID 30517","LID 30517",6.52,"Southland","Glacial",52.21,"Predicted","No data","LID30517",FALSE
+"LID 30810","Murihiku",4.09,"Southland","Dam",5.42,"Predicted","No data","LID30810",FALSE
+"LID 30812","Big Lagoon",16.59,"Southland","Shoreline",8.96,"Predicted","No data","LID30812",FALSE
+"LID 30838","LID 30838",5.05,"Southland","Riverine",4.95,"Predicted","No data","LID30838",FALSE
+"LID 30970","LID 30970",8.12,"Southland","Shoreline",17.09,"Predicted","No data","LID30970",FALSE
+"LID 31265","LID 31265",6.98,"Southland","Dam",16,"Predicted","No data","LID31265",FALSE
+"LID 43639","Lake Brunton",25.89,"Southland","Aeolian",13.25,"Predicted","No data","LID43639",FALSE
+"LID 43829","LID 43829",6.22,"Southland","Riverine",4.39,"Predicted","No data","LID43829",FALSE
+"LID 46043","Lake Duncan",33.97,"Southland","Glacial",52.79,"Predicted","No data","LID46043",FALSE
+"LID 46047","Lake Wisely",45.32,"Southland","Glacial",56.97,"Predicted","No data","LID46047",FALSE
+"LID 46050","LID 46050",5.58,"Southland","Glacial",NA,"Predicted","No data","LID46050",FALSE
+"LID 46051","Lake Eyles",42.04,"Southland","Glacial",64.96,"Predicted","No data","LID46051",FALSE
+"LID 49714","LID 49714",7.46,"Southland","Landslide",33.06,"Predicted","No data","LID49714",FALSE
+"LID 49715","Lake Iceberg (Southland - LID 49715)",9.37,"Southland","Glacial",NA,"Predicted","No data","LID49715",FALSE
+"LID 49716","Lake Agnes",17.55,"Southland","Glacial",67.06,"Predicted","No data","LID49716",FALSE
+"LID 49721","LID 49721",5.74,"Southland","Riverine",36.94,"Predicted","No data","LID49721",FALSE
+"LID 50629","Lake Beddoes",58.41,"Southland","Landslide",70.01,"Predicted","No data","LID50629",FALSE
+"LID 50639","LID 50639",11.17,"Southland","Glacial",43.93,"Predicted","No data","LID50639",FALSE
+"LID 50644","LID 50644",10.24,"Southland","Glacial",NA,"Predicted","No data","LID50644",FALSE
+"LID 50645","LID 50645",6.92,"Southland","Glacial",61.87,"Predicted","No data","LID50645",FALSE
+"LID 51624","LID 51624",9.47,"Southland","Riverine",43.82,"Predicted","No data","LID51624",FALSE
+"LID 51625","Lake Beattie",179.58,"Southland","Glacial",64.01,"Predicted","No data","LID51625",FALSE
+"LID 51631","Lake Swan",36.23,"Southland","Glacial",53.69,"Predicted","No data","LID51631",FALSE
+"LID 51634","LID 51634",10.62,"Southland","Glacial",59.14,"Predicted","No data","LID51634",FALSE
+"LID 51637","LID 51637",14.7,"Southland","Glacial",41.26,"Predicted","No data","LID51637",FALSE
+"LID 51640","Lake Paradise",54.49,"Southland","Glacial",72.22,"Predicted","No data","LID51640",FALSE
+"LID 51647","LID 51647",18.06,"Southland","Glacial",56.45,"Predicted","No data","LID51647",FALSE
+"LID 51652","LID 51652",53.61,"Southland","Glacial",60,"Predicted","No data","LID51652",FALSE
+"LID 51653","LID 51653",27.5,"Southland","Glacial",37.64,"Predicted","No data","LID51653",FALSE
+"LID 51654","LID 51654",12.3,"Southland","Glacial",51.35,"Predicted","No data","LID51654",FALSE
+"LID 51656","LID 51656",36.53,"Southland","Glacial",48.6,"Predicted","No data","LID51656",FALSE
+"LID 51657","LID 51657",10.54,"Southland","Glacial",42.47,"Predicted","No data","LID51657",FALSE
+"LID 51658","LID 51658",25.65,"Southland","Glacial",58.62,"Predicted","No data","LID51658",FALSE
+"LID 51659","LID 51659",17.6,"Southland","Glacial",60.38,"Predicted","No data","LID51659",FALSE
+"LID 51664","LID 51664",8.08,"Southland","Glacial",64.73,"Predicted","No data","LID51664",FALSE
+"LID 51684","LID 51684",6.58,"Southland","Glacial",NA,"Predicted","No data","LID51684",FALSE
+"LID 51722","LID 51722",5.95,"Southland","Glacial",51.27,"Predicted","No data","LID51722",FALSE
+"LID 51747","Lake Louise",22.12,"Southland","Glacial",54.39,"Predicted","No data","LID51747",FALSE
+"LID 51751","Lake Colwell",19.7,"Southland","Glacial",49.34,"Predicted","No data","LID51751",FALSE
+"LID 51754","Lake Troup",16.3,"Southland","Glacial",65.08,"Predicted","No data","LID51754",FALSE
+"LID 51781","LID 51781",6.85,"Southland","Glacial",65.71,"Predicted","No data","LID51781",FALSE
+"LID 51784","LID 51784",63.84,"Southland","Glacial",56.6,"Predicted","No data","LID51784",FALSE
+"LID 51785","LID 51785",11.5,"Southland","Glacial",71.8,"Predicted","No data","LID51785",FALSE
+"LID 51786","LID 51786",9.01,"Southland","Glacial",50.34,"Predicted","No data","LID51786",FALSE
+"LID 51788","LID 51788",9.75,"Southland","Glacial",47.9,"Predicted","No data","LID51788",FALSE
+"LID 51790","LID 51790",22.61,"Southland","Glacial",61.8,"Predicted","No data","LID51790",FALSE
+"LID 51794","LID 51794",18.08,"Southland","Glacial",48.71,"Predicted","No data","LID51794",FALSE
+"LID 51808","LID 51808",14.27,"Southland","Glacial",60.96,"Predicted","No data","LID51808",FALSE
+"LID 51822","Lake Virginia",12.98,"Southland","Glacial",43.2,"Predicted","No data","LID51822",FALSE
+"LID 51826","Lake Carina",14.44,"Southland","Glacial",59.07,"Predicted","No data","LID51826",FALSE
+"LID 51827","Lake Lucille",12.34,"Southland","Glacial",57.94,"Predicted","No data","LID51827",FALSE
+"LID 51836","LID 51836",11.29,"Southland","Glacial",72.21,"Predicted","No data","LID51836",FALSE
+"LID 51838","Lake Matilda",21.97,"Southland","Glacial",65.15,"Predicted","No data","LID51838",FALSE
+"LID 51845","LID 51845",6.26,"Southland","Glacial",NA,"Predicted","No data","LID51845",FALSE
+"LID 51846","LID 51846",9.7,"Southland","Glacial",71.09,"Predicted","No data","LID51846",FALSE
+"LID 51850","Lake Norwest",50.87,"Southland","Glacial",53.23,"Predicted","No data","LID51850",FALSE
+"LID 51859","Lake Browne",77.93,"Southland","Glacial",66.19,"Predicted","No data","LID51859",FALSE
+"LID 51862","LID 51862",6.41,"Southland","Glacial",71.36,"Predicted","No data","LID51862",FALSE
+"LID 51868","LID 51868",8.22,"Southland","Glacial",57.05,"Predicted","No data","LID51868",FALSE
+"LID 51874","Lake Chamberlain",42.71,"Southland","Glacial",67.05,"Predicted","No data","LID51874",FALSE
+"LID 51876","LID 51876",16.63,"Southland","Glacial",41.05,"Predicted","No data","LID51876",FALSE
+"LID 51877","LID 51877",35.01,"Southland","Glacial",62.04,"Predicted","No data","LID51877",FALSE
+"LID 51882","LID 51882",8.59,"Southland","Glacial",NA,"Predicted","No data","LID51882",FALSE
+"LID 51892","LID 51892",19.64,"Southland","Glacial",NA,"Predicted","No data","LID51892",FALSE
+"LID 51895","LID 51895",12.46,"Southland","Glacial",73.28,"Predicted","No data","LID51895",FALSE
+"LID 51899","Lake Annie",24.36,"Southland","Glacial",69.9,"Predicted","No data","LID51899",FALSE
+"LID 51908","LID 51908",6.07,"Southland","Glacial",NA,"Predicted","No data","LID51908",FALSE
+"LID 51915","LID 51915",6.29,"Southland","Glacial",56.1,"Predicted","No data","LID51915",FALSE
+"LID 51940","Lake Lois",62.59,"Southland","Glacial",30.08,"Predicted","No data","LID51940",FALSE
+"LID 51941","Trinity Lakes",11.55,"Southland","Glacial",NA,"Predicted","No data","LID51941",FALSE
+"LID 51945","LID 51945",9.77,"Southland","Glacial",62.03,"Predicted","No data","LID51945",FALSE
+"LID 51946","LID 51946",7.99,"Southland","Glacial",NA,"Predicted","No data","LID51946",FALSE
+"LID 51954","LID 51954",43.91,"Southland","Glacial",23.32,"Predicted","No data","LID51954",FALSE
+"LID 51955","LID 51955",5.05,"Southland","Glacial",15.24,"Predicted","No data","LID51955",FALSE
+"LID 51958","Lake Richter",14.18,"Southland","Glacial",23.84,"Predicted","No data","LID51958",FALSE
+"LID 51972","LID 51972",36,"Southland","Glacial",60.04,"Predicted","No data","LID51972",FALSE
+"LID 51978","Lake Victoria",26.28,"Southland","Glacial",76.39,"Predicted","No data","LID51978",FALSE
+"LID 51985","Lake Herries",110.35,"Southland","Glacial",59.86,"Predicted","No data","LID51985",FALSE
+"LID 52001","LID 52001",13.19,"Southland","Glacial",32.14,"Predicted","No data","LID52001",FALSE
+"LID 52026","LID 52026",5.16,"Southland","Glacial",9.55,"Predicted","No data","LID52026",FALSE
+"LID 52059","LID 52059",8.52,"Southland","Glacial",8.51,"Predicted","No data","LID52059",FALSE
+"LID 52077","LID 52077",21.74,"Southland","Glacial",25.22,"Predicted","No data","LID52077",FALSE
+"LID 52080","LID 52080",5.24,"Southland","Glacial",25.69,"Predicted","No data","LID52080",FALSE
+"LID 52088","LID 52088",5.05,"Southland","Glacial",7.22,"Predicted","No data","LID52088",FALSE
+"LID 52098","Lake Luxmore",5.92,"Southland","Riverine",NA,"Predicted","No data","LID52098",FALSE
+"LID 52115","Lake Thomas",28.98,"Southland","Riverine",12.65,"Predicted","No data","LID52115",FALSE
+"LID 52117","LID 52117",8.72,"Southland","Riverine",9.14,"Predicted","No data","LID52117",FALSE
+"LID 52133","LID 52133",6.04,"Southland","Glacial",53.07,"Predicted","No data","LID52133",FALSE
+"LID 52138","Secretary Lake",15.95,"Southland","Glacial",32.09,"Predicted","No data","LID52138",FALSE
+"LID 52140","LID 52140",12.62,"Southland","Glacial",60.73,"Predicted","No data","LID52140",FALSE
+"LID 52143","LID 52143",18.82,"Southland","Glacial",67.46,"Predicted","No data","LID52143",FALSE
+"LID 52147","Lake Dora",27.92,"Southland","Glacial",69.29,"Predicted","No data","LID52147",FALSE
+"LID 52148","Lake Pan",19.07,"Southland","Glacial",72.66,"Predicted","No data","LID52148",FALSE
+"LID 52152","LID 52152",30.13,"Southland","Glacial",70.68,"Predicted","No data","LID52152",FALSE
+"LID 52155","LID 52155",7.38,"Southland","Glacial",60.23,"Predicted","No data","LID52155",FALSE
+"LID 52159","LID 52159",13.01,"Southland","Glacial",74.73,"Predicted","No data","LID52159",FALSE
+"LID 52160","LID 52160",6.18,"Southland","Glacial",44.65,"Predicted","No data","LID52160",FALSE
+"LID 52165","LID 52165",5.45,"Southland","Riverine",32.37,"Predicted","No data","LID52165",FALSE
+"LID 52167","Lake Norma",17.63,"Southland","Riverine",59.02,"Predicted","No data","LID52167",FALSE
+"LID 52170","LID 52170",5.82,"Southland","Glacial",67.14,"Predicted","No data","LID52170",FALSE
+"LID 52171","LID 52171",7.74,"Southland","Glacial",NA,"Predicted","No data","LID52171",FALSE
+"LID 52176","LID 52176",11.91,"Southland","Glacial",NA,"Predicted","No data","LID52176",FALSE
+"LID 52177","Lake Freeman",10.58,"Southland","Glacial",45.17,"Predicted","No data","LID52177",FALSE
+"LID 52181","Lake Minerva",16.98,"Southland","Glacial",41.98,"Predicted","No data","LID52181",FALSE
+"LID 52186","Tuaraki",7.67,"Southland","Glacial",NA,"Predicted","No data","LID52186",FALSE
+"LID 52190","Lake Boomerang",8.84,"Southland","Glacial",48.94,"Predicted","No data","LID52190",FALSE
+"LID 52194","LID 52194",14.6,"Southland","Glacial",67.6,"Predicted","No data","LID52194",FALSE
+"LID 52204","LID 52204",6.53,"Southland","Glacial",NA,"Predicted","No data","LID52204",FALSE
+"LID 52205","LID 52205",11.15,"Southland","Glacial",57.73,"Predicted","No data","LID52205",FALSE
+"LID 52206","LID 52206",9.46,"Southland","Glacial",66.26,"Predicted","No data","LID52206",FALSE
+"LID 52221","Tawera Tarn",13.75,"Southland","Glacial",52.88,"Predicted","No data","LID52221",FALSE
+"LID 52224","LID 52224",7.49,"Southland","Glacial",53.52,"Predicted","No data","LID52224",FALSE
+"LID 52232","LID 52232",6.5,"Southland","Glacial",NA,"Predicted","No data","LID52232",FALSE
+"LID 52235","Myth Tarn",28.19,"Southland","Glacial",51.72,"Predicted","No data","LID52235",FALSE
+"LID 52240","Lake Shirley",54.82,"Southland","Glacial",72.6,"Predicted","No data","LID52240",FALSE
+"LID 52241","LID 52241",14.06,"Southland","Glacial",59.21,"Predicted","No data","LID52241",FALSE
+"LID 52243","Lake Marchant",266.19,"Southland","Glacial",72.35,"Predicted","No data","LID52243",FALSE
+"LID 52247","LID 52247",14.5,"Southland","Glacial",55.22,"Predicted","No data","LID52247",FALSE
+"LID 52254","LID 52254",29.51,"Southland","Glacial",65.43,"Predicted","No data","LID52254",FALSE
+"LID 52256","LID 52256",5.92,"Southland","Glacial",51.63,"Predicted","No data","LID52256",FALSE
+"LID 52258","LID 52258",34.12,"Southland","Glacial",64.49,"Predicted","No data","LID52258",FALSE
+"LID 52268","Lake Eva",13.41,"Southland","Glacial",52.19,"Predicted","No data","LID52268",FALSE
+"LID 52269","Lake Ione",17.8,"Southland","Glacial",55.81,"Predicted","No data","LID52269",FALSE
+"LID 52274","Hidden Lake",26.38,"Southland","Glacial",49.13,"Predicted","No data","LID52274",FALSE
+"LID 52292","Teardrop Lake",41.61,"Southland","Glacial",61.43,"Predicted","No data","LID52292",FALSE
+"LID 52297","LID 52297",5.06,"Southland","Glacial",62.23,"Predicted","No data","LID52297",FALSE
+"LID 52298","LID 52298",14.61,"Southland","Glacial",71.95,"Predicted","No data","LID52298",FALSE
+"LID 52300","LID 52300",5.39,"Southland","Shoreline",25.5,"Predicted","No data","LID52300",FALSE
+"LID 52301","LID 52301",5.67,"Southland","Glacial",36.32,"Predicted","No data","LID52301",FALSE
+"LID 52303","LID 52303",5.65,"Southland","Glacial",59.82,"Predicted","No data","LID52303",FALSE
+"LID 52306","LID 52306",10.06,"Southland","Glacial",62.59,"Predicted","No data","LID52306",FALSE
+"LID 52307","LID 52307",17.92,"Southland","Glacial",62.58,"Predicted","No data","LID52307",FALSE
+"LID 52322","LID 52322",5.16,"Southland","Glacial",62.21,"Predicted","No data","LID52322",FALSE
+"LID 52335","LID 52335",5.23,"Southland","Glacial",35,"Predicted","No data","LID52335",FALSE
+"LID 52338","LID 52338",5.39,"Southland","Glacial",54.06,"Predicted","No data","LID52338",FALSE
+"LID 52340","LID 52340",21.61,"Southland","Glacial",47.96,"Predicted","No data","LID52340",FALSE
+"LID 52344","LID 52344",29.75,"Southland","Glacial",NA,"Predicted","No data","LID52344",FALSE
+"LID 52355","Three Duck Lake",18.2,"Southland","Glacial",68.5,"Predicted","No data","LID52355",FALSE
+"LID 52358","LID 52358",42.14,"Southland","Glacial",68.84,"Predicted","No data","LID52358",FALSE
+"LID 52370","LID 52370",6.73,"Southland","Glacial",NA,"Predicted","No data","LID52370",FALSE
+"LID 52372","LID 52372",5.92,"Southland","Glacial",56.54,"Predicted","No data","LID52372",FALSE
+"LID 52374","LID 52374",10.52,"Southland","Glacial",NA,"Predicted","No data","LID52374",FALSE
+"LID 52380","Lake Cecil",14.09,"Southland","Glacial",43.26,"Predicted","No data","LID52380",FALSE
+"LID 52384","LID 52384",9.31,"Southland","Glacial",29.42,"Predicted","No data","LID52384",FALSE
+"LID 52389","Lake Hall",59.36,"Southland","Glacial",55.62,"Predicted","No data","LID52389",FALSE
+"LID 52391","LID 52391",8.3,"Southland","Glacial",20.23,"Predicted","No data","LID52391",FALSE
+"LID 52393","Lake Hilda",100.5,"Southland","Glacial",67.24,"Predicted","No data","LID52393",FALSE
+"LID 52397","Te Au",156.49,"Southland","Glacial",72.75,"Predicted","No data","LID52397",FALSE
+"LID 52399","LID 52399",7.23,"Southland","Glacial",42.69,"Predicted","No data","LID52399",FALSE
+"LID 52400","LID 52400",9.03,"Southland","Glacial",63.01,"Predicted","No data","LID52400",FALSE
+"LID 52410","LID 52410",14.39,"Southland","Landslide",25.19,"Predicted","No data","LID52410",FALSE
+"LID 52411","LID 52411",7.68,"Southland","Glacial",30.41,"Predicted","No data","LID52411",FALSE
+"LID 52421","LID 52421",9.52,"Southland","Glacial",NA,"Predicted","No data","LID52421",FALSE
+"LID 52422","LID 52422",13.69,"Southland","Glacial",57.54,"Predicted","No data","LID52422",FALSE
+"LID 52429","LID 52429",8.28,"Southland","Glacial",NA,"Predicted","No data","LID52429",FALSE
+"LID 52434","LID 52434",7.78,"Southland","Glacial",47.17,"Predicted","No data","LID52434",FALSE
+"LID 52472","LID 52472",7.73,"Southland","Glacial",24.4,"Predicted","No data","LID52472",FALSE
+"LID 52473","LID 52473",14.66,"Southland","Glacial",27.14,"Predicted","No data","LID52473",FALSE
+"LID 52474","Te Aroha",6.86,"Southland","Peat",15.09,"Predicted","No data","LID52474",FALSE
+"LID 52475","Lake Orbell",34.59,"Southland","Glacial",53.02,"Predicted","No data","LID52475",FALSE
+"LID 52532","LID 52532",12.96,"Southland","Glacial",12.03,"Predicted","No data","LID52532",FALSE
+"LID 52570","LID 52570",7.01,"Southland","Peat",16.92,"Predicted","No data","LID52570",FALSE
+"LID 52576","Lake Mistletoe",11.19,"Southland","Peat",18.37,"Predicted","No data","LID52576",FALSE
+"LID 52577","Bog Lake",39.27,"Southland","Glacial",19.09,"Predicted","No data","LID52577",FALSE
+"LID 52585","Lake Bloxham",77.02,"Southland","Glacial",65.48,"Predicted","No data","LID52585",FALSE
+"LID 52592","Lake Mackinnon",61.95,"Southland","Glacial",51.45,"Predicted","No data","LID52592",FALSE
+"LID 52613","Lake Mcivor",167.54,"Southland","Glacial",72.07,"Predicted","No data","LID52613",FALSE
+"LID 52617","Lake Wapiti",87.41,"Southland","Glacial",78.37,"Predicted","No data","LID52617",FALSE
+"LID 52618","LID 52618",5.2,"Southland","Glacial",56.35,"Predicted","No data","LID52618",FALSE
+"LID 52619","LID 52619",8.13,"Southland","Glacial",59.94,"Predicted","No data","LID52619",FALSE
+"LID 52624","LID 52624",8.63,"Southland","Glacial",62.91,"Predicted","No data","LID52624",FALSE
+"LID 52641","Lake Clark",30.42,"Southland","Glacial",57.75,"Predicted","No data","LID52641",FALSE
+"LID 52642","Lake Wade",30.76,"Southland","Glacial",66.5,"Predicted","No data","LID52642",FALSE
+"LID 52647","LID 52647",8.98,"Southland","Glacial",20.28,"Predicted","No data","LID52647",FALSE
+"LID 52650","LID 52650",8.66,"Southland","Glacial",37.03,"Predicted","No data","LID52650",FALSE
+"LID 52652","LID 52652",41.44,"Southland","Glacial",37.02,"Predicted","No data","LID52652",FALSE
+"LID 52658","LID 52658",5.91,"Southland","Glacial",NA,"Predicted","No data","LID52658",FALSE
+"LID 52660","Lake Ogle",10.76,"Southland","Glacial",49.83,"Predicted","No data","LID52660",FALSE
+"LID 52666","Lake Hankinson",339.85,"Southland","Glacial",73.3,"Predicted","No data","LID52666",FALSE
+"LID 52669","LID 52669",11.52,"Southland","Glacial",NA,"Predicted","No data","LID52669",FALSE
+"LID 52677","LID 52677",9.13,"Southland","Glacial",NA,"Predicted","No data","LID52677",FALSE
+"LID 52684","LID 52684",28.19,"Southland","Glacial",43.49,"Predicted","No data","LID52684",FALSE
+"LID 52697","Lake Katherine",26.21,"Southland","Glacial",54.94,"Predicted","No data","LID52697",FALSE
+"LID 52722","Lake Alice (Southland)",178.14,"Southland","Glacial",66.75,"Predicted","No data","LID52722",FALSE
+"LID 52723","LID 52723",5.41,"Southland","Glacial",46.89,"Predicted","No data","LID52723",FALSE
+"LID 52731","Lake Thompson (Southland - LID 52731)",55.41,"Southland","Glacial",48.39,"Predicted","No data","LID52731",FALSE
+"LID 52740","Lake Sutherland",35.88,"Southland","Glacial",50.93,"Predicted","No data","LID52740",FALSE
+"LID 52751","Lake Roxburgh (Southland)",62.71,"Southland","Dam",66.91,"Predicted","No data","LID52751",FALSE
+"LID 52770","LID 52770",14.69,"Southland","Glacial",NA,"Predicted","No data","LID52770",FALSE
+"LID 52785","LID 52785",6.12,"Southland","Glacial",NA,"Predicted","No data","LID52785",FALSE
+"LID 52806","LID 52806",6.15,"Southland","Glacial",37.89,"Predicted","No data","LID52806",FALSE
+"LID 52834","LID 52834",5.42,"Southland","Glacial",NA,"Predicted","No data","LID52834",FALSE
+"LID 52849","LID 52849",7.25,"Southland","Glacial",34.7,"Predicted","No data","LID52849",FALSE
+"LID 52851","LID 52851",22.71,"Southland","Glacial",59.65,"Predicted","No data","LID52851",FALSE
+"LID 52861","LID 52861",5.78,"Southland","Glacial",76.94,"Predicted","No data","LID52861",FALSE
+"LID 52863","LID 52863",6.38,"Southland","Glacial",NA,"Predicted","No data","LID52863",FALSE
+"LID 52875","Lake Bernard (Southland)",32.46,"Southland","Glacial",56.17,"Predicted","No data","LID52875",FALSE
+"LID 52878","Swan Mere",16.98,"Southland","Landslide",47.99,"Predicted","No data","LID52878",FALSE
+"LID 52884","Lake Grave",221.14,"Southland","Glacial",69.58,"Predicted","No data","LID52884",FALSE
+"LID 52887","LID 52887",28.63,"Southland","Glacial",64.64,"Predicted","No data","LID52887",FALSE
+"LID 52888","LID 52888",5.77,"Southland","Landslide",46.28,"Predicted","No data","LID52888",FALSE
+"LID 52896","LID 52896",44.3,"Southland","Glacial",69.6,"Predicted","No data","LID52896",FALSE
+"LID 52902","LID 52902",19.8,"Southland","Glacial",64.02,"Predicted","No data","LID52902",FALSE
+"LID 52904","LID 52904",6.49,"Southland","Glacial",62.37,"Predicted","No data","LID52904",FALSE
+"LID 52906","Lake Dale",11.25,"Southland","Glacial",55.47,"Predicted","No data","LID52906",FALSE
+"LID 52908","LID 52908",5.04,"Southland","Glacial",NA,"Predicted","No data","LID52908",FALSE
+"LID 52914","LID 52914",48.2,"Southland","Glacial",64.89,"Predicted","No data","LID52914",FALSE
+"LID 52919","LID 52919",37.21,"Southland","Glacial",63.94,"Predicted","No data","LID52919",FALSE
+"LID 52924","Lake Brownlee",30.29,"Southland","Glacial",60.81,"Predicted","No data","LID52924",FALSE
+"LID 52927","Lake Sumor",12.29,"Southland","Riverine",50.8,"Predicted","No data","LID52927",FALSE
+"LID 52928","LID 52928",10.53,"Southland","Glacial",76.65,"Predicted","No data","LID52928",FALSE
+"LID 52940","LID 52940",22.22,"Southland","Glacial",64.5,"Predicted","No data","LID52940",FALSE
+"LID 52954","Lake Ross",36.28,"Southland","Landslide",62.3,"Predicted","No data","LID52954",FALSE
+"LID 52960","Lake Quill",111.36,"Southland","Glacial",74.13,"Predicted","No data","LID52960",FALSE
+"LID 52961","LID 52961",15.86,"Southland","Glacial",NA,"Predicted","No data","LID52961",FALSE
+"LID 52991","LID 52991",6.79,"Southland","Glacial",NA,"Predicted","No data","LID52991",FALSE
+"LID 52992","Lake Iceberg (Southland - LID 52992)",21.36,"Southland","Glacial",NA,"Predicted","No data","LID52992",FALSE
+"LID 52998","Lake Erskine",105.14,"Southland","Glacial",98.46,"Predicted","No data","LID52998",FALSE
+"LID 53006","Lake Thompson (Southland - LID 53006)",21.59,"Southland","Glacial",78.19,"Predicted","No data","LID53006",FALSE
+"LID 53020","LID 53020",13.7,"Southland","Glacial",65.7,"Predicted","No data","LID53020",FALSE
+"LID 53021","LID 53021",12.87,"Southland","Glacial",NA,"Predicted","No data","LID53021",FALSE
+"LID 53022","LID 53022",23.19,"Southland","Glacial",68.39,"Predicted","No data","LID53022",FALSE
+"LID 53025","Lake Ronald",116.25,"Southland","Glacial",64.49,"Predicted","No data","LID53025",FALSE
+"LID 53033","Lake Moreton",50.1,"Southland","Glacial",78.27,"Predicted","No data","LID53033",FALSE
+"LID 53034","LID 53034",58.07,"Southland","Glacial",63.13,"Predicted","No data","LID53034",FALSE
+"LID 53048","Lake Brown",25.53,"Southland","Glacial",41.06,"Predicted","No data","LID53048",FALSE
+"LID 53059","LID 53059",6.13,"Southland","Riverine",44.13,"Predicted","No data","LID53059",FALSE
+"LID 53062","Lake Ada",239.51,"Southland","Landslide",55.1,"Predicted","No data","LID53062",FALSE
+"LID 53101","LID 53101",40.42,"Southland","Glacial",62.34,"Predicted","No data","LID53101",FALSE
+"LID 53103","Lake Pukutahi",12.29,"Southland","Glacial",NA,"Predicted","No data","LID53103",FALSE
+"LID 53109","Lake Never-never",25.06,"Southland","Glacial",74.2,"Predicted","No data","LID53109",FALSE
+"LID 53113","Lake Truth",13.29,"Southland","Glacial",NA,"Predicted","No data","LID53113",FALSE
+"LID 53114","LID 53114",11.9,"Southland","Glacial",53.88,"Predicted","No data","LID53114",FALSE
+"LID 53117","LID 53117",54.5,"Southland","Glacial",49.91,"Predicted","No data","LID53117",FALSE
+"LID 53124","LID 53124",9.67,"Southland","Glacial",73.51,"Predicted","No data","LID53124",FALSE
+"LID 53177","Mckenzie Lagoon",9.29,"Southland","Shoreline",11.2,"Predicted","No data","LID53177",FALSE
+"LID 53202","Lake Echo",6.39,"Southland","Peat",12.57,"Predicted","No data","LID53202",FALSE
+"LID 53300","Lake Gow",22.27,"Southland","Glacial",NA,"Predicted","No data","LID53300",FALSE
+"LID 53304","Blue Lake (Southland)",44.71,"Southland","Glacial",64.02,"Predicted","No data","LID53304",FALSE
+"LID 53307","Lake Scott",10.05,"Southland","Glacial",NA,"Predicted","No data","LID53307",FALSE
+"LID 53315","LID 53315",6.34,"Southland","Glacial",NA,"Predicted","No data","LID53315",FALSE
+"LID 53359","LID 53359",5.44,"Southland","Glacial",NA,"Predicted","No data","LID53359",FALSE
+"LID 53401","Acheron Lakes S",15.11,"Southland","Glacial",NA,"Predicted","No data","LID53401",FALSE
+"LID 53402","Acheron Lakes N",25.27,"Southland","Glacial",41.26,"Predicted","No data","LID53402",FALSE
+"LID 53491","LID 53491",5.4,"Southland","Riverine",15.55,"Predicted","No data","LID53491",FALSE
+"LID 53616","LID 53616",7.37,"Southland","Glacial",NA,"Predicted","No data","LID53616",FALSE
+"LID 53872","Lake Fergus",59.14,"Southland","Glacial",80.26,"Predicted","No data","LID53872",FALSE
+"LID 53886","Lake Howden",8.12,"Southland","Riverine",49.62,"Predicted","No data","LID53886",FALSE
+"LID 54000","Lake Marian",80.52,"Southland","Glacial",74.28,"Predicted","No data","LID54000",FALSE
+"LID 54005","LID 54005",8.21,"Southland","Glacial",NA,"Predicted","No data","LID54005",FALSE
+"LID 54025","Lake Mackenzie",22.77,"Southland","Glacial",NA,"Predicted","No data","LID54025",FALSE
+"LID 54060","Lake Adelaide",128.31,"Southland","Glacial",83.34,"Predicted","No data","LID54060",FALSE
+"LID 54071","LID 54071",9.98,"Southland","Glacial",NA,"Predicted","No data","LID54071",FALSE
+"LID 54073","Lake Turner",48.8,"Southland","Glacial",NA,"Predicted","No data","LID54073",FALSE
+"LID 54077","Rainbow Lake",11.55,"Southland","Glacial",71.57,"Predicted","No data","LID54077",FALSE
+"LID 54080","Lake Hyslop",5.16,"Southland","Glacial",NA,"Predicted","No data","LID54080",FALSE
+"LID 54375","LID 54375",11.77,"Southland","Glacial",NA,"Predicted","No data","LID54375",FALSE
+"LID 54407","LID 54407",6.45,"Southland","Glacial",71.41,"Predicted","No data","LID54407",FALSE
+"LID 54413","LID 54413",35.68,"Southland","Glacial",73.97,"Predicted","No data","LID54413",FALSE
+"LID 54435","Lake Wilmot",232.54,"Southland","Riverine",75.6,"Predicted","No data","LID54435",FALSE
+"LID 54443","LID 54443",10.79,"Southland","Glacial",36.19,"Predicted","No data","LID54443",FALSE
+"LID 54561","Waiuna",89.7,"Southland","Shoreline",30.45,"Predicted","No data","LID54561",FALSE
+"LID 54562","LID 54562",5.97,"Southland","Glacial",39.72,"Predicted","No data","LID54562",FALSE
+"OSM 1020968584","OSM 1020968584",52.81,"Southland","Glacial",NA,"Predicted","No data","OSM1020968584",FALSE
+"ES 001","Te WaeWae",NA,"Southland","Shoreline",NA,"Predicted","Minimal Data","ES001",FALSE
+"LID 7506","Rotorangi",625.89,"Taranaki","Dam",50.88,"Predicted","Minimal Data","LID7506",FALSE
+"LID 7512","Rotokare",15.66,"Taranaki","Volcanic",18.1,"Predicted","Minimal Data","LID7512",FALSE
+"LID 15795","Kaikura",5.92,"Taranaki","Shoreline",5.83,"Predicted","No data","LID15795",FALSE
+"LID 15823","Taumaha",5.28,"Taranaki","Shoreline",8.11,"Predicted","No data","LID15823",FALSE
+"LID 15840","Nowell's Lakes W",5.03,"Taranaki","Shoreline",7.63,"Predicted","No data","LID15840",FALSE
+"LID 15884","LID 15884",5.41,"Taranaki","Aeolian",5.46,"Predicted","No data","LID15884",FALSE
+"LID 15886","Tapuarau (Hawken's Lagoon)",6.67,"Taranaki","Aeolian",5.1,"Predicted","No data","LID15886",FALSE
+"LID 15898","Okoia",3.9,"Taranaki","Aeolian",4.76,"Predicted","No data","LID15898",FALSE
+"LID 15902","Herengawe",14.32,"Taranaki","Aeolian",6.61,"Predicted","No data","LID15902",FALSE
+"LID 15904","Oturi",10.93,"Taranaki","Aeolian",7.28,"Predicted","No data","LID15904",FALSE
+"LID 15907","Waiau",23.99,"Taranaki","Aeolian",8.26,"Predicted","No data","LID15907",FALSE
+"LID 15926","Waikato",4.91,"Taranaki","Aeolian",5.08,"Predicted","No data","LID15926",FALSE
+"LID 16131","Moumahaki",32.85,"Taranaki","Riverine",23.29,"Predicted","No data","LID16131",FALSE
+"LID 16214","LID 16214",9.36,"Taranaki","Riverine",17.47,"Predicted","No data","LID16214",FALSE
+"LID 16222","Waikare (Taranaki)",7.41,"Taranaki","Landslide",27.11,"Predicted","No data","LID16222",FALSE
+"LID 16224","Mangawhio",9.22,"Taranaki","Landslide",29.88,"Predicted","No data","LID16224",FALSE
+"LID 16280","Opunake",5.69,"Taranaki","Shoreline",14.71,"Predicted","No data","LID16280",FALSE
+"LID 16392","Ratapiko",21.51,"Taranaki","Riverine",9.54,"Predicted","No data","LID16392",FALSE
+"LID 16491","Rotokohu",1.13,"Taranaki","Riverine",12.63,"Predicted","No data","LID16491",FALSE
+"LID 20880","Mangamahoe",23.53,"Taranaki","Dam",18.71,"Predicted","No data","LID20880",FALSE
+"LID 20904","Rotomanu",9.76,"Taranaki","Shoreline",4.49,"Predicted","No data","LID20904",FALSE
+"LID 20959","Waipu (Taranaki)",1,"Taranaki","Shoreline",5.05,"Predicted","No data","LID20959",FALSE
+"LID 20969","Cowley Lake",6.66,"Taranaki","Dam",4.64,"Predicted","No data","LID20969",FALSE
+"TAR 001","Ngangana",NA,"Taranaki","Riverine",NA,"Predicted","Minimal Data","TAR001",FALSE
+"LID 26887","Rotoroa (Tasman)",2359.81,"Tasman","Glacial",145,"Measured","No data","LID26887",FALSE
+"LID 27762","Rotoiti (Tasman)",963.7,"Tasman","Glacial",89.17,"Measured","No data","LID27762",TRUE
+"LID 24789","LID 24789",18.76,"Tasman","Landslide",27.95,"Predicted","No data","LID24789",FALSE
+"LID 24795","Lake Jeanette",8.58,"Tasman","Glacial",32.19,"Predicted","No data","LID24795",FALSE
+"LID 24917","Aorere",7.44,"Tasman","Glacial",49.96,"Predicted","No data","LID24917",FALSE
+"LID 24932","Little Sylvester Lake",7.6,"Tasman","Glacial",31.69,"Predicted","No data","LID24932",FALSE
+"LID 24947","Lake Cobb",13.21,"Tasman","Glacial",47.78,"Predicted","No data","LID24947",FALSE
+"LID 24949","Iron Lake",6.01,"Tasman","Glacial",NA,"Predicted","No data","LID24949",FALSE
+"LID 24955","Diamond Lake (Tasman)",6,"Tasman","Glacial",36.38,"Predicted","No data","LID24955",FALSE
+"LID 24960","Lake Lockett",27.35,"Tasman","Glacial",52.19,"Predicted","No data","LID24960",FALSE
+"LID 24969","Cobb Reservoir",236.78,"Tasman","Dam",48.13,"Predicted","No data","LID24969",FALSE
+"LID 24971","Lake Sylvester",27.71,"Tasman","Glacial",47.19,"Predicted","No data","LID24971",FALSE
+"LID 25000","LID 25000",6.32,"Tasman","Glacial",NA,"Predicted","No data","LID25000",FALSE
+"LID 25002","Lake Stanley",73.29,"Tasman","Landslide",47.52,"Predicted","No data","LID25002",FALSE
+"LID 25006","LID 25006",6.88,"Tasman","Glacial",46.19,"Predicted","No data","LID25006",FALSE
+"LID 25008","Lake Lindsay",5.67,"Tasman","Glacial",44.11,"Predicted","No data","LID25008",FALSE
+"LID 25024","Boulder Lake",44.36,"Tasman","Glacial",39.45,"Predicted","No data","LID25024",FALSE
+"LID 25519","Otuhie",84.56,"Tasman","Landslide",23.18,"Predicted","No data","LID25519",FALSE
+"LID 25748","LID 25748",15.25,"Tasman","Shoreline",9.06,"Predicted","No data","LID25748",FALSE
+"LID 25765","Druggans Dam",17.3,"Tasman","Dam",13.13,"Predicted","No data","LID25765",FALSE
+"LID 25789","Kaihoka W",5.27,"Tasman","Shoreline",14.53,"Predicted","No data","LID25789",FALSE
+"LID 25790","Kaihoka  E",6.75,"Tasman","Shoreline",13.53,"Predicted","No data","LID25790",FALSE
+"LID 26502","Lake Ella",5.99,"Tasman","Glacial",NA,"Predicted","No data","LID26502",FALSE
+"LID 26514","Lake Constance",88.39,"Tasman","Glacial",67.58,"Predicted","No data","LID26514",FALSE
+"LID 26876","LID 26876",5.47,"Tasman","Landslide",34.34,"Predicted","No data","LID26876",FALSE
+"LID 26896","Hinapouri",4.3,"Tasman","Glacial",NA,"Predicted","No data","LID26896",FALSE
+"LID 26901","Lake Angelus",18.98,"Tasman","Glacial",NA,"Predicted","No data","LID26901",FALSE
+"LID 27332","Paraumu Tarn",5.38,"Tasman","Glacial",NA,"Predicted","No data","LID27332",FALSE
+"LID 54741","Matiri",56.74,"Tasman","Landslide",33.36,"Predicted","No data","LID54741",FALSE
+"L380 02","Rototai",0.57,"Tasman","Riverine",NA,"Predicted","No data","L38002",FALSE
+"TAS 001","Long Plain Road End Sinkhole 1",NA,"Tasman","Glacial",NA,"Predicted","No data","TAS001",FALSE
+"TAS 002","Long Plain Road End Sinkhole 2",NA,"Tasman","Glacial",NA,"Predicted","No data","TAS002",FALSE
+"TAS 003","Craigieburn Creek Sinkhole",NA,"Tasman","Glacial",NA,"Predicted","No data","TAS003",FALSE
+"LID 12591","Parangi",12.03,"Waikato","Aeolian",17.73,"Measured","Minimal Data","LID12591",TRUE
+"LID 12830","Harihari",18.39,"Waikato","Aeolian",9.72,"Measured","Limited and Irregular","LID12830",TRUE
+"LID 12872","Rotoroa (Waikato)",22.57,"Waikato","Aeolian",6.5,"Measured","Minimal Data","LID12872",FALSE
+"LID 12873","Numiti",15.76,"Waikato","Aeolian",10.51,"Measured","Minimal Data","LID12873",TRUE
+"LID 13278","Rotongaio (Waikato)",34.22,"Waikato","Volcanic",21.46,"Measured","No data","LID13278",TRUE
+"LID 13857","Waipapa",116.56,"Waikato","Dam",16.5,"Measured","No data","LID13857",FALSE
+"LID 13873","Whakamaru",539.03,"Waikato","Dam",38,"Measured","No data","LID13873",FALSE
+"LID 13876","Maraetai",400.57,"Waikato","Dam",61,"Measured","No data","LID13876",FALSE
+"LID 13915","Rotokawa (Waikato)",65.54,"Waikato","Geothermal",27,"Measured","No data","LID13915",FALSE
+"LID 13957","Atiamuri",203.54,"Waikato","Dam",21.84,"Measured","No data","LID13957",TRUE
+"LID 13970","Ohakuri",940.17,"Waikato","Dam",37.48,"Measured","No data","LID13970",TRUE
+"LID 14071","Tutaeinanga",3.11,"Waikato","Volcanic",12.6,"Measured","Minimal Data","LID14071",TRUE
+"LID 14179","Ngapouri",21.34,"Waikato","Volcanic",25.86,"Measured","No data","LID14179",TRUE
+"LID 14205","Rotowhero (Green Lake)",2.6,"Waikato","Geothermal",14,"Measured","No data","LID14205",FALSE
+"LID 14208","Ngahewa",8.44,"Waikato","Volcanic",7.82,"Measured","Minimal Data","LID14208",TRUE
+"LID 14405","Mangakaware",14.59,"Waikato","Riverine",4.63,"Measured","Limited and Irregular","LID14405",TRUE
+"LID 14406","Ngaroto",91.8,"Waikato","Peat",3.31,"Measured","Minimal Data","LID14406",TRUE
+"LID 14408","Ruatuna",11.81,"Waikato","Peat",2.4,"Measured","Minimal Data","LID14408",TRUE
+"LID 14418","Mangahia",7.94,"Waikato","Peat",2.35,"Measured","Minimal Data","LID14418",TRUE
+"LID 14422","Maratoto",17.85,"Waikato","Peat",7.22,"Measured","Periodic but Sparse","LID14422",TRUE
+"LID 14424","Rotopiko E (Lake Serpentine E)",1.43,"Waikato","Peat",3.25,"Measured","Limited and Irregular","LID14424",TRUE
+"LID 14427","Rotomanuka S",6.12,"Waikato","Peat",5.03,"Measured","Minimal Data","LID14427",TRUE
+"LID 14428","Rotomanuka",13.65,"Waikato","Peat",8.23,"Measured","Periodic but Sparse","LID14428",TRUE
+"LID 14680","Karapiro",770.27,"Waikato","Dam",30.5,"Measured","No data","LID14680",FALSE
+"LID 14720","Te Koo Utu",4.6,"Waikato","Riverine",3.66,"Measured","Minimal Data","LID14720",TRUE
+"LID 15020","Waiwhakareke (Horseshoe Lake)",3.43,"Waikato","Peat",4.08,"Measured","Minimal Data","LID15020",TRUE
+"LID 15022","Rotoroa (Hamilton Lake)",51.96,"Waikato","Peat",5.8,"Measured","Minimal Data","LID15022",TRUE
+"LID 15032","Pikopiko",4.69,"Waikato","Peat",2.95,"Measured","Minimal Data","LID15032",TRUE
+"LID 15034","Areare",30.44,"Waikato","Peat",4.58,"Measured","Limited and Irregular","LID15034",TRUE
+"LID 15035","Whakatangi (Lake A)",2.81,"Waikato","Peat",3.68,"Measured","Minimal Data","LID15035",TRUE
+"LID 15037","Kainui (Lake D)",27.2,"Waikato","Peat",6.15,"Measured","Minimal Data","LID15037",TRUE
+"LID 15038","Kaituna (Lake B)",9.66,"Waikato","Peat",1.16,"Measured","Minimal Data","LID15038",TRUE
+"LID 21367","Rotoaira",1567.85,"Waikato","Volcanic",14.86,"Measured","No data","LID21367",TRUE
+"LID 21370","Rotopounamu (Waikato)",85.13,"Waikato","Volcanic",7.79,"Measured","Minimal Data","LID21370",TRUE
+"LID 41314","Waahi",444.71,"Waikato","Riverine",4.95,"Measured","Periodic but Sparse","LID41314",TRUE
+"LID 49090","Ohinewai",17.08,"Waikato","Riverine",4.67,"Measured","Minimal Data","LID49090",TRUE
+"LID 49180","Whangape",1078.87,"Waikato","Riverine",2.9,"Measured","Limited and Irregular","LID49180",TRUE
+"LID 49186","Rotongaro",283.9,"Waikato","Riverine",3.3,"Measured","Minimal Data","LID49186",TRUE
+"LID 49187","Rotongaroiti",44.5,"Waikato","Riverine",0.86,"Measured","Minimal Data","LID49187",TRUE
+"LID 49200","Hakanoa",56.41,"Waikato","Riverine",1.68,"Measured","Limited and Irregular","LID49200",TRUE
+"LID 49291","Otamatearoa",4.87,"Waikato","Aeolian",4.62,"Measured","No data","LID49291",TRUE
+"LID 49295","Puketi",5.9,"Waikato","Aeolian",6.87,"Measured","Minimal Data","LID49295",TRUE
+"LID 50782","Waikare (Waikato)",3438.66,"Waikato","Riverine",1.6,"Measured","Periodic but Sparse","LID50782",FALSE
+"LID 54734","Taupomoana (Lake Taupo)",61334.89,"Waikato","Volcanic",158,"Measured","Minimal Data","LID54734",TRUE
+"LID 11084","Orotu",4.75,"Waikato","Volcanic",8.1,"Predicted","No data","LID11084",FALSE
+"LID 12831","Rototapu",1.97,"Waikato","Aeolian",13.97,"Predicted","No data","LID12831",FALSE
+"LID 12876","Taharoa (Waikato)",216.46,"Waikato","Aeolian",21.99,"Predicted","No data","LID12876",FALSE
+"LID 13148","Kuratau",103.14,"Waikato","Dam",13.57,"Predicted","No data","LID13148",FALSE
+"LID 13149","LID 13149",6.64,"Waikato","Dam",7.97,"Predicted","No data","LID13149",FALSE
+"LID 13276","LID 13276",15.15,"Waikato","Dam",44.57,"Predicted","No data","LID13276",FALSE
+"LID 13277","Hinemaiaia",21.79,"Waikato","Dam",33.86,"Predicted","No data","LID13277",FALSE
+"LID 13284","Pukuriri",3.63,"Waikato","Volcanic",8.71,"Predicted","No data","LID13284",FALSE
+"LID 13877","Maraetai E",18,"Waikato","Dam",13.15,"Predicted","No data","LID13877",FALSE
+"LID 13883","LID 13883",7.86,"Waikato","Riverine",27.66,"Predicted","No data","LID13883",FALSE
+"LID 13909","Aratiatia",45.08,"Waikato","Dam",32.18,"Predicted","No data","LID13909",FALSE
+"LID 14082","LID 14082",6.98,"Waikato","Volcanic",26.03,"Predicted","No data","LID14082",FALSE
+"LID 14157","Whangioterangi (Echo Lake)",3.59,"Waikato","Geothermal",23.51,"Predicted","No data","LID14157",FALSE
+"LID 14204","Ngakoro",1.33,"Waikato","Geothermal",12.37,"Predicted","No data","LID14204",FALSE
+"LID 14407","Ngarotoiti",3.28,"Waikato","Peat",2.81,"Predicted","No data","LID14407",FALSE
+"LID 14423","Rotopataka",1.09,"Waikato","Peat",4.14,"Predicted","No data","LID14423",FALSE
+"LID 14425","Rotopiko W (Lake Serpentine W)",4.28,"Waikato","Peat",7.79,"Predicted","Limited and Irregular","LID14425",FALSE
+"LID 14426","Rotopiko N (Lake Serpentine N)",4.64,"Waikato","Peat",4.98,"Predicted","Periodic but Sparse","LID14426",FALSE
+"LID 14541","Rotongata",6.08,"Waikato","Peat",7.87,"Predicted","No data","LID14541",FALSE
+"LID 14546","Arapuni",828.22,"Waikato","Dam",40.89,"Predicted","No data","LID14546",FALSE
+"LID 14586","Moananui",7.89,"Waikato","Dam",8.42,"Predicted","No data","LID14586",FALSE
+"LID 14718","LID 14718",9.09,"Waikato","Dam",8.97,"Predicted","No data","LID14718",FALSE
+"LID 14888","Okoroire",3.46,"Waikato","Peat",4.07,"Predicted","Minimal Data","LID14888",FALSE
+"LID 15005","Pataka",4.83,"Waikato","Peat",3.62,"Predicted","No data","LID15005",FALSE
+"LID 15007","Koromatua",4.94,"Waikato","Peat",3.16,"Predicted","No data","LID15007",FALSE
+"LID 15013","Rotokauri",38.02,"Waikato","Peat",6.53,"Predicted","No data","LID15013",FALSE
+"LID 15033","Hotoananga",15.64,"Waikato","Peat",3.89,"Predicted","No data","LID15033",FALSE
+"LID 15036","Tunawhakaheke (Lake E)",3.07,"Waikato","Peat",3.38,"Predicted","No data","LID15036",FALSE
+"LID 15039","Komakorau (Lake C)",1.58,"Waikato","Peat",2.88,"Predicted","No data","LID15039",FALSE
+"LID 15176","LID 15176",7.05,"Waikato","Riverine",15.03,"Predicted","No data","LID15176",FALSE
+"LID 20857","Blue Lake (Waikato)",17.21,"Waikato","Volcanic",NA,"Predicted","No data","LID20857",FALSE
+"LID 21356","LID 21356",5.26,"Waikato","Volcanic",8.84,"Predicted","No data","LID21356",FALSE
+"LID 21384","Rotokura",2.71,"Waikato","Volcanic",8.95,"Predicted","No data","LID21384",FALSE
+"LID 49091","Rotokawau (Waikato)",14.83,"Waikato","Peat",3.48,"Predicted","No data","LID49091",FALSE
+"LID 49169","LID 49169",18.5,"Waikato","Riverine",3.17,"Predicted","No data","LID49169",FALSE
+"LID 49176","Okowhao",7.48,"Waikato","Riverine",3.91,"Predicted","No data","LID49176",FALSE
+"LID 49196","Waiwhata",1.34,"Waikato","Riverine",5.17,"Predicted","No data","LID49196",FALSE
+"LID 49239","Kimihia",48.77,"Waikato","Riverine",6.2,"Predicted","No data","LID49239",FALSE
+"LID 50470","Kopuera",44.89,"Waikato","Riverine",2.83,"Predicted","Minimal Data","LID50470",FALSE
+"LID 51368","Mangatangi Reservoir",154.48,"Waikato","Dam",44.39,"Predicted","No data","LID51368",FALSE
+"LID 51371","Upper Mangatawhiri Reservoir",123.88,"Waikato","Dam",26.55,"Predicted","No data","LID51371",FALSE
+"LID 51380","Kaiaua Quarry Ponds",11.14,"Waikato","Dam",4.64,"Predicted","No data","LID51380",FALSE
+"LID 51430","LID 51430",8.56,"Waikato","Riverine",5.82,"Predicted","No data","LID51430",FALSE
+"OSM 8846510","Te Iringa",7.65,"Waikato","Riverine",NA,"Predicted","No data","OSM8846510",FALSE
+"WRC 001","Lake Puketirini (Weavers Lake)",NA,"Waikato","Riverine",NA,"Predicted","Minimal Data","WRC001",FALSE
+"WRC 002","Kohahuake (Lake Parkinson's)",NA,"Waikato","Aeolian",NA,"Predicted","Minimal Data","WRC002",FALSE
+"WRC 003","Te Otamanui",NA,"Waikato","Riverine",NA,"Predicted","Minimal Data","WRC003",FALSE
+"WRC 004","Waitamoumou",NA,"Waikato","Shoreline",NA,"Predicted","No data","WRC004",FALSE
+"WRC 005","Te Kapa",NA,"Waikato","Riverine",NA,"Predicted","No data","WRC005",FALSE
+"WRC 006","Rotopupu",NA,"Waikato","Aeolian",NA,"Predicted","No data","WRC006",FALSE
+"WRC 007","Rotoiti (Waikato)",NA,"Waikato","Aeolian",NA,"Predicted","No data","WRC007",FALSE
+"WRC 008","Hiwiroa",NA,"Waikato","Riverine",NA,"Predicted","No data","WRC008",FALSE
+"WRC 009","Lake Disappear",NA,"Waikato","Shoreline",NA,"Predicted","No data","WRC009",FALSE
+"WRC 010","Lake Okoroiri",NA,"Waikato","Riverine",NA,"Predicted","No data","WRC010",FALSE
+"WRC 011","Lake Koroha",NA,"Waikato","Aeolian",NA,"Predicted","No data","WRC011",FALSE
+"WRC 012","Lake Piopio",NA,"Waikato","Aeolian",NA,"Predicted","No data","WRC012",FALSE
+"LID 1","Onoke",622.34,"Wellington","Shoreline",8.72,"Measured","Minimal Data","LID1",TRUE
+"LID 1708","Wairarapa",7737.38,"Wellington","Riverine",2.73,"Measured","Minimal Data","LID1708",TRUE
+"LID 3","Kohangapiripiri",10.82,"Wellington","Shoreline",14.43,"Predicted","No data","LID3",FALSE
+"LID 4","Kohangatera",21.31,"Wellington","Shoreline",14.8,"Predicted","No data","LID4",FALSE
+"LID 119","LID 119",41.87,"Wellington","Riverine",3.55,"Predicted","No data","LID119",FALSE
+"LID 195","Nganoke",3.1,"Wellington","Riverine",3.74,"Predicted","No data","LID195",FALSE
+"LID 229","Pounui",45.95,"Wellington","Tectonic",NA,"Predicted","No data","LID229",FALSE
+"LID 299","LID 299",9.17,"Wellington","Riverine",5.33,"Predicted","No data","LID299",FALSE
+"LID 300","LID 300",6.58,"Wellington","Riverine",3.21,"Predicted","No data","LID300",FALSE
+"LID 301","LID 301",10.59,"Wellington","Riverine",9.62,"Predicted","No data","LID301",FALSE
+"LID 381","Henley Lake",12.27,"Wellington","Riverine",4.28,"Predicted","No data","LID381",FALSE
+"LID 505","LID 505",6.99,"Wellington","Riverine",3.42,"Predicted","No data","LID505",FALSE
+"LID 507","LID 507",10.7,"Wellington","Riverine",3.58,"Predicted","No data","LID507",FALSE
+"LID 511","LID 511",37.34,"Wellington","Riverine",4.57,"Predicted","No data","LID511",FALSE
+"LID 512","LID 512",5.33,"Wellington","Riverine",3.59,"Predicted","No data","LID512",FALSE
+"LID 515","Boggy Pond Lagoon",58.23,"Wellington","Riverine",5.08,"Predicted","No data","LID515",FALSE
+"LID 831","Waitawa",15.78,"Wellington","Aeolian",7.62,"Predicted","No data","LID831",FALSE
+"LID 841","Waiorongomai",5.85,"Wellington","Aeolian",4.34,"Predicted","No data","LID841",FALSE
+"LID 847","Kopureherehere",6.91,"Wellington","Aeolian",5.6,"Predicted","No data","LID847",FALSE
+"LID 1717","LID 1717",5.15,"Wellington","Riverine",7.93,"Predicted","No data","LID1717",FALSE
+"LID 1721","LID 1721",5.05,"Wellington","Riverine",4.4,"Predicted","No data","LID1721",FALSE
+"LID 1726","LID 1726",9.98,"Wellington","Riverine",4.02,"Predicted","No data","LID1726",FALSE
+"LID 1731","LID 1731",12.08,"Wellington","Riverine",3.68,"Predicted","No data","LID1731",FALSE
+"LID 1742","LID 1742",11.73,"Wellington","Riverine",2.8,"Predicted","No data","LID1742",FALSE
+"LID 1744","LID 1744",6.18,"Wellington","Dam",4.05,"Predicted","No data","LID1744",FALSE
+"LID 2549","Kourarau Dam",6.74,"Wellington","Dam",6.91,"Predicted","No data","LID2549",FALSE
+"LID 4278","Okupe",7.8,"Wellington","Shoreline",NA,"Predicted","No data","LID4278",FALSE
+"GWRC 001","Ngarara",NA,"Wellington","Shoreline",NA,"Predicted","No data","GWRC001",FALSE
+"GWRC 002","Turners Lagoon",NA,"Wellington","Riverine",NA,"Predicted","No data","GWRC002",FALSE
+"GWRC 003","Waimeha",NA,"Wellington","Shoreline",NA,"Predicted","No data","GWRC003",FALSE
+"LID 38421","Mahinapua",393.69,"West Coast","Glacial",9.6,"Measured","No data","LID38421",FALSE
+"LID 38502","Lake Kaniere",1473.44,"West Coast","Landslide",197.8,"Measured","No data","LID38502",FALSE
+"LID 38665","Lady Lake",140.69,"West Coast","Glacial",25,"Measured","No data","LID38665",FALSE
+"LID 38955","Poerua",212.61,"West Coast","Riverine",6.7,"Measured","No data","LID38955",FALSE
+"LID 38974","Lake Brunner",4059.24,"West Coast","Glacial",109.3,"Measured","Minimal Data","LID38974",FALSE
+"LID 39621","Lake Hochstetter",499.94,"West Coast","Glacial",16.8,"Measured","No data","LID39621",FALSE
+"LID 45683","Lake Matheson",8.96,"West Coast","Riverine",12,"Measured","No data","LID45683",FALSE
+"LID 46723","Moeraki",242.08,"West Coast","Glacial",43.09,"Measured","No data","LID46723",TRUE
+"LID 46725","Paringa",475.2,"West Coast","Glacial",55.78,"Measured","No data","LID46725",TRUE
+"LID 46959","Mapourika",890.01,"West Coast","Glacial",78.88,"Measured","No data","LID46959",TRUE
+"LID 46964","Wahapo",244.68,"West Coast","Glacial",61,"Measured","No data","LID46964",FALSE
+"LID 47491","Matahi (Lake Ianthe)",470.8,"West Coast","Riverine",31.68,"Measured","No data","LID47491",TRUE
+"LID 24682","LID 24682",6.31,"West Coast","Glacial",48.18,"Predicted","No data","LID24682",FALSE
+"LID 24724","LID 24724",18.94,"West Coast","Glacial",62.62,"Predicted","No data","LID24724",FALSE
+"LID 24725","LID 24725",7.89,"West Coast","Glacial",73.58,"Predicted","No data","LID24725",FALSE
+"LID 24734","Lake Perrine",7.49,"West Coast","Landslide",21.88,"Predicted","No data","LID24734",FALSE
+"LID 24746","LID 24746",22.55,"West Coast","Landslide",30.69,"Predicted","No data","LID24746",FALSE
+"LID 24750","Lake Hanlon",12.63,"West Coast","Riverine",20.97,"Predicted","No data","LID24750",FALSE
+"LID 24805","Lake Marina",11.59,"West Coast","Landslide",50.06,"Predicted","No data","LID24805",FALSE
+"LID 24806","Lake Phyllis",8.08,"West Coast","Landslide",66.18,"Predicted","No data","LID24806",FALSE
+"LID 24848","Moonstone Lake",10.3,"West Coast","Landslide",26.84,"Predicted","No data","LID24848",FALSE
+"LID 24906","LID 24906",9.17,"West Coast","Landslide",36.95,"Predicted","No data","LID24906",FALSE
+"LID 24916","Lake Elmer",19.44,"West Coast","Landslide",33.2,"Predicted","No data","LID24916",FALSE
+"LID 24923","Lake Jewell",31.65,"West Coast","Glacial",53.01,"Predicted","No data","LID24923",FALSE
+"LID 24925","Rotopai",1.62,"West Coast","Glacial",48.73,"Predicted","No data","LID24925",FALSE
+"LID 24927","Lake Barfoot",7.38,"West Coast","Landslide",42.71,"Predicted","No data","LID24927",FALSE
+"LID 24937","Lake Henderson",14.08,"West Coast","Glacial",50.51,"Predicted","No data","LID24937",FALSE
+"LID 24995","Island Lake (West Coast)",34.77,"West Coast","Glacial",52.96,"Predicted","No data","LID24995",FALSE
+"LID 26357","Lake Daniells",78.22,"West Coast","Landslide",57.12,"Predicted","No data","LID26357",FALSE
+"LID 26384","LID 26384",5.79,"West Coast","Glacial",NA,"Predicted","No data","LID26384",FALSE
+"LID 34299","LID 34299",42.98,"West Coast","Dam",23.85,"Predicted","No data","LID34299",FALSE
+"LID 35974","LID 35974",6.58,"West Coast","Glacial",56.94,"Predicted","No data","LID35974",FALSE
+"LID 35975","LID 35975",6.53,"West Coast","Glacial",NA,"Predicted","No data","LID35975",FALSE
+"LID 37717","Lake Browning",14.85,"West Coast","Glacial",49.25,"Predicted","No data","LID37717",FALSE
+"LID 38143","LID 38143",11.02,"West Coast","Shoreline",6.74,"Predicted","No data","LID38143",FALSE
+"LID 38521","Okuku",11.51,"West Coast","Dam",20.84,"Predicted","No data","LID38521",FALSE
+"LID 38614","Lake Mudgie",26.49,"West Coast","Peat",15.92,"Predicted","No data","LID38614",FALSE
+"LID 38637","LID 38637",7.95,"West Coast","Dam",6.3,"Predicted","No data","LID38637",FALSE
+"LID 38638","Kapitea",339.86,"West Coast","Dam",23.92,"Predicted","No data","LID38638",FALSE
+"LID 38639","LID 38639",5.17,"West Coast","Dam",7.4,"Predicted","No data","LID38639",FALSE
+"LID 38648","LID 38648",15.54,"West Coast","Riverine",9.51,"Predicted","No data","LID38648",FALSE
+"LID 38661","Swans Retreat Lagoon",11.28,"West Coast","Riverine",6.62,"Predicted","No data","LID38661",FALSE
+"LID 38664","Kangaroo Lake",125.41,"West Coast","Glacial",28.71,"Predicted","No data","LID38664",FALSE
+"LID 39012","Lake Sally",7.39,"West Coast","Glacial",NA,"Predicted","No data","LID39012",FALSE
+"LID 39050","Kaurapataka",34.89,"West Coast","Landslide",72.93,"Predicted","No data","LID39050",FALSE
+"LID 39101","LID 39101",5.13,"West Coast","Shoreline",6.97,"Predicted","No data","LID39101",FALSE
+"LID 39191","Lake Morgan",11.28,"West Coast","Glacial",56.95,"Predicted","No data","LID39191",FALSE
+"LID 39225","Haupiri",223.71,"West Coast","Glacial",30.44,"Predicted","Minimal Data","LID39225",FALSE
+"LID 39226","Ahaura",198.09,"West Coast","Glacial",47.67,"Predicted","No data","LID39226",FALSE
+"LID 39478","LID 39478",14.25,"West Coast","Shoreline",6.12,"Predicted","No data","LID39478",FALSE
+"LID 39570","LID 39570",7.68,"West Coast","Aeolian",7.22,"Predicted","No data","LID39570",FALSE
+"LID 39599","LID 39599",39.78,"West Coast","Aeolian",10,"Predicted","No data","LID39599",FALSE
+"LID 39611","Gillows Dam",6.3,"West Coast","Dam",13.85,"Predicted","No data","LID39611",FALSE
+"LID 39681","LID 39681",6.52,"West Coast","Glacial",62.16,"Predicted","No data","LID39681",FALSE
+"LID 39688","LID 39688",6.06,"West Coast","Glacial",NA,"Predicted","No data","LID39688",FALSE
+"LID 39837","Lake Christabel",258.3,"West Coast","Landslide",92.46,"Predicted","No data","LID39837",FALSE
+"LID 39950","Rahui",6.54,"West Coast","Riverine",28.06,"Predicted","No data","LID39950",FALSE
+"LID 39974","LID 39974",5.7,"West Coast","Dam",10.57,"Predicted","No data","LID39974",FALSE
+"LID 41679","Lake Eggeling",9.98,"West Coast","Glacial",78.34,"Predicted","No data","LID41679",FALSE
+"LID 41690","LID 41690",5.48,"West Coast","Riverine",22.65,"Predicted","No data","LID41690",FALSE
+"LID 41746","LID 41746",6.23,"West Coast","Glacial",NA,"Predicted","No data","LID41746",FALSE
+"LID 41757","Douglas Lake",102.66,"West Coast","Glacial",NA,"Predicted","No data","LID41757",FALSE
+"LID 45296","Theta Tarn",9.29,"West Coast","Riverine",18.41,"Predicted","No data","LID45296",FALSE
+"LID 45341","LID 45341",18.14,"West Coast","Glacial",NA,"Predicted","No data","LID45341",FALSE
+"LID 45378","LID 45378",30.53,"West Coast","Glacial",NA,"Predicted","No data","LID45378",FALSE
+"LID 45678","LID 45678",10.58,"West Coast","Glacial",NA,"Predicted","No data","LID45678",FALSE
+"LID 45684","Lake Lyttle",7.01,"West Coast","Glacial",25.14,"Predicted","No data","LID45684",FALSE
+"LID 45686","Lake Gault",31.81,"West Coast","Glacial",26.75,"Predicted","No data","LID45686",FALSE
+"LID 45688","LID 45688",27.65,"West Coast","Glacial",22.52,"Predicted","No data","LID45688",FALSE
+"LID 45691","LID 45691",5.19,"West Coast","Riverine",20.31,"Predicted","No data","LID45691",FALSE
+"LID 45692","Lake Mueller",57.94,"West Coast","Glacial",30.91,"Predicted","No data","LID45692",FALSE
+"LID 46083","LID 46083",7.09,"West Coast","Peat",6.37,"Predicted","No data","LID46083",FALSE
+"LID 46090","Lake Jumbuck",17.37,"West Coast","Peat",28.95,"Predicted","No data","LID46090",FALSE
+"LID 46131","Lake Leeb",14.51,"West Coast","Glacial",59.35,"Predicted","No data","LID46131",FALSE
+"LID 46132","Lake Clarke",24.27,"West Coast","Glacial",80.77,"Predicted","No data","LID46132",FALSE
+"LID 46138","Lake Greaney",15.93,"West Coast","Glacial",NA,"Predicted","No data","LID46138",FALSE
+"LID 46140","Lake Ellery",388.76,"West Coast","Glacial",NA,"Predicted","No data","LID46140",FALSE
+"LID 46141","Lake Mary",6.18,"West Coast","Riverine",30.03,"Predicted","No data","LID46141",FALSE
+"LID 46142","Minim Mere",5.21,"West Coast","Glacial",NA,"Predicted","No data","LID46142",FALSE
+"LID 46152","LID 46152",8.7,"West Coast","Glacial",76.41,"Predicted","No data","LID46152",FALSE
+"LID 46160","Lake Nisson",55.98,"West Coast","Peat",24.36,"Predicted","No data","LID46160",FALSE
+"LID 46163","Waiatoto",3.91,"West Coast","Shoreline",10.15,"Predicted","No data","LID46163",FALSE
+"LID 46173","LID 46173",5.92,"West Coast","Shoreline",9.05,"Predicted","No data","LID46173",FALSE
+"LID 46212","Lake Douglas",64.08,"West Coast","Glacial",84.96,"Predicted","No data","LID46212",FALSE
+"LID 46265","Tawherikiri W",36.87,"West Coast","Peat",7.52,"Predicted","No data","LID46265",FALSE
+"LID 46267","Tawherikiri E",4.24,"West Coast","Peat",4.96,"Predicted","No data","LID46267",FALSE
+"LID 46301","LID 46301",10.18,"West Coast","Shoreline",20.7,"Predicted","No data","LID46301",FALSE
+"LID 46320","Lake Barra",18.89,"West Coast","Glacial",65.24,"Predicted","No data","LID46320",FALSE
+"LID 46407","Lake Topsy",9.9,"West Coast","Landslide",44.75,"Predicted","No data","LID46407",FALSE
+"LID 46630","LID 46630",5.62,"West Coast","Glacial",NA,"Predicted","No data","LID46630",FALSE
+"LID 46635","LID 46635",9.84,"West Coast","Glacial",NA,"Predicted","No data","LID46635",FALSE
+"LID 46724","Lake Rasselas",31.44,"West Coast","Glacial",32.84,"Predicted","No data","LID46724",FALSE
+"LID 46742","LID 46742",5.2,"West Coast","Peat",24.18,"Predicted","No data","LID46742",FALSE
+"LID 46758","LID 46758",9.46,"West Coast","Glacial",NA,"Predicted","No data","LID46758",FALSE
+"LID 46763","Kini",15.02,"West Coast","Peat",4.73,"Predicted","No data","LID46763",FALSE
+"LID 46774","LID 46774",9.99,"West Coast","Glacial",NA,"Predicted","No data","LID46774",FALSE
+"LID 46775","Rototekoiti",22.96,"West Coast","Glacial",NA,"Predicted","No data","LID46775",FALSE
+"LID 46799","LID 46799",10.35,"West Coast","Glacial",11.16,"Predicted","No data","LID46799",FALSE
+"LID 46822","LID 46822",5.1,"West Coast","Glacial",NA,"Predicted","No data","LID46822",FALSE
+"LID 46918","Lake Barrowman",12.16,"West Coast","Glacial",NA,"Predicted","No data","LID46918",FALSE
+"LID 46922","Lake Pratt",5.7,"West Coast","Riverine",16.56,"Predicted","No data","LID46922",FALSE
+"LID 46926","LID 46926",11.76,"West Coast","Glacial",NA,"Predicted","No data","LID46926",FALSE
+"LID 46954","Ata Puai (Alpine Lake)",57.2,"West Coast","Glacial",25.61,"Predicted","No data","LID46954",FALSE
+"LID 46956","Miro",1.5,"West Coast","Glacial",26.95,"Predicted","No data","LID46956",FALSE
+"LID 46957","Three Mile Lagoon",84.35,"West Coast","Shoreline",11.85,"Predicted","No data","LID46957",FALSE
+"LID 46992","Okaritoiti (Lake Windermere)",31.43,"West Coast","Shoreline",NA,"Predicted","No data","LID46992",FALSE
+"LID 47090","White Heron Lagoon",14.55,"West Coast","Riverine",7.84,"Predicted","No data","LID47090",FALSE
+"LID 47095","Rotokino",143.34,"West Coast","Glacial",22.96,"Predicted","No data","LID47095",FALSE
+"LID 47414","Ice Lake",34.14,"West Coast","Glacial",85.83,"Predicted","No data","LID47414",FALSE
+"LID 47440","Abel Lake",5.51,"West Coast","Glacial",NA,"Predicted","No data","LID47440",FALSE
+"LID 48387","LID 48387",23.08,"West Coast","Glacial",89.4,"Predicted","No data","LID48387",FALSE
+"LID 48395","Ivory Lake",12.42,"West Coast","Glacial",NA,"Predicted","No data","LID48395",FALSE
+"LID 53963","LID 53963",107.12,"West Coast","Glacial",92.6,"Predicted","No data","LID53963",FALSE
+"LID 53966","Cloudmaker Lake",24.29,"West Coast","Glacial",NA,"Predicted","No data","LID53966",FALSE
+"LID 54467","LID 54467",6.83,"West Coast","Glacial",NA,"Predicted","No data","LID54467",FALSE
+"LID 54486","Lake Williamson",49.09,"West Coast","Glacial",NA,"Predicted","No data","LID54486",FALSE
+"LID 54487","LID 54487",6.75,"West Coast","Glacial",NA,"Predicted","No data","LID54487",FALSE
+"LID 54515","LID 54515",5.75,"West Coast","Glacial",NA,"Predicted","No data","LID54515",FALSE
+"LID 54589","LID 54589",7.07,"West Coast","Glacial",NA,"Predicted","No data","LID54589",FALSE
+"LID 54601","LID 54601",5.91,"West Coast","Glacial",NA,"Predicted","No data","LID54601",FALSE
+"LID 54618","LID 54618",32.83,"West Coast","Glacial",NA,"Predicted","No data","LID54618",FALSE
+"OSM 1041285644","OSM 1041285644",17.52,"West Coast","Glacial",NA,"Predicted","No data","OSM1041285644",FALSE
