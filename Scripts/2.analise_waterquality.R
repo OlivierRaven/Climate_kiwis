@@ -164,11 +164,12 @@ ggplot(Temp_data_filtered_sen, aes(as.Date(paste0(year_month, "-01")), mean_valu
 names(Temp_data_filtered_sen)
 names(lm_slopes_data)
 
-combined_data <- Temp_data_filtered_sen %>%
+combined_slope_data <- Temp_data_filtered_sen %>%
   distinct(lake_name, .keep_all = TRUE) %>% 
   select(lake_name, region, geomorphic_type,time_range_start, time_range_end, time_range_years,total_months, mean_value, median_temp,sen_slope, sen_signif) %>%
   left_join(lm_slopes_data %>%rename(lm_slope = slope,lm_intercept = intercept,lm_r_squared = r_squared),by = "lake_name")
 
 
+write.csv(combined_slope_data, "Data_mod/combined_slope_data.csv", row.names = FALSE)
 
 
